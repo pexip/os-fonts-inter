@@ -1,0 +1,3 @@
+#instance_otf/*.otf usr/share/fonts/opentype/inter
+docs/font-files/*.otf usr/share/fonts/opentype/inter
+debian/fonts-*.metainfo.xml usr/share/metainfo
