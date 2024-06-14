@@ -1,8 +1,9 @@
 Source: fonts-inter
 Section: fonts
 Priority: optional
-Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
-Uploaders: Gürkan Myczko <tar@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: Gürkan Myczko <tar@debian.org>
 Build-Depends: debhelper-compat (= 13),
 # commented out for the future, when we switch to build from source again
 # fontmake, ufo2otf, python3-fontforge, fontforge-nox | fontforge
@@ -11,6 +12,7 @@ Rules-Requires-Root: no
 Vcs-Git: https://salsa.debian.org/fonts-team/fonts-inter.git
 Vcs-Browser: https://salsa.debian.org/fonts-team/fonts-inter
 Homepage: https://rsms.me/inter/
+XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
 
 Package: fonts-inter
 Architecture: all

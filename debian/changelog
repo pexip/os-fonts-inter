@@ -1,3 +1,9 @@
+fonts-inter (4.0~beta7+ds-1+pexip24u1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Fri, 14 Jun 2024 10:55:42 +0000
+
 fonts-inter (4.0~beta7+ds-1) unstable; urgency=medium
 
   * New upstream version.
