@@ -1,0 +1,93 @@
+{
+glyphname = Cheverticalstrokecyrillic;
+layers = (
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (516,-77);
+ref = _part.crossbar_vert;
+}
+);
+width = 1448;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (500,-29);
+ref = _part.crossbar_vert;
+}
+);
+width = 1468;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (567,-105);
+ref = _part.crossbar_vert;
+}
+);
+width = 1438;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (484,-77);
+ref = _part.crossbar_vert;
+}
+);
+width = 1384;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (487,-19);
+ref = _part.crossbar_vert;
+}
+);
+width = 1436;
+},
+{
+layerId = m011;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (506,-105);
+ref = _part.crossbar_vert;
+}
+);
+width = 1310;
+}
+);
+tags = (
+"TODO-opsz"
+);
+unicode = 1208;
+userData = {
+interface.gridadjust.original = "{'width': 1924, 'leftMargin': 276, 'rightMargin': 152}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

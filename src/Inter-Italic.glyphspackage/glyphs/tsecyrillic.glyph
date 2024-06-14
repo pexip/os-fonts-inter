@@ -1,0 +1,106 @@
+{
+glyphname = tsecyrillic;
+kernLeft = m;
+kernRight = t;
+layers = (
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+metricRight = "=idotless-80";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (882,0);
+ref = _part.cyrtic;
+}
+);
+width = 1195;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+metricRight = "=idotless-50";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (797,0);
+ref = _part.cyrtic;
+}
+);
+width = 1301;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+metricRight = "=idotless-22";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (883,0);
+ref = _part.cyrtic;
+}
+);
+width = 1177;
+},
+{
+layerId = m008;
+metricRight = "=idotless-80";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (850,0);
+ref = _part.cyrtic;
+}
+);
+width = 1131;
+},
+{
+layerId = m010;
+metricRight = "=idotless-50";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (778,0);
+ref = _part.cyrtic;
+}
+);
+width = 1265;
+},
+{
+layerId = m012;
+metricRight = "=idotless-22";
+name = ital_gen;
+shapes = (
+{
+ref = pecyrillicturn;
+},
+{
+pos = (819,0);
+ref = _part.cyrtic;
+}
+);
+width = 1049;
+}
+);
+metricLeft = idotless;
+note = "!post:RemoveOverlap";
+unicode = 1094;
+userData = {
+interface.gridadjust.original = "{'width': 1683.0, 'leftMargin': 213, 'rightMargin': 78.0}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

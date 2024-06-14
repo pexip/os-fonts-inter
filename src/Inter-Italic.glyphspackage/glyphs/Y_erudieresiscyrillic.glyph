@@ -1,0 +1,90 @@
+{
+glyphname = Yerudieresiscyrillic;
+layers = (
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (324,372);
+ref = dieresis;
+}
+);
+width = 1742;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (480,372);
+ref = dieresis;
+}
+);
+width = 1854;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (199,372);
+ref = dieresis;
+}
+);
+width = 1625;
+},
+{
+layerId = m008;
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (319,414);
+ref = dieresis;
+}
+);
+width = 1650;
+},
+{
+layerId = m010;
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (480,414);
+ref = dieresis;
+}
+);
+width = 1813;
+},
+{
+layerId = m012;
+name = ital_gen;
+shapes = (
+{
+ref = afii10045;
+},
+{
+pos = (174,414);
+ref = dieresis;
+}
+);
+width = 1436;
+}
+);
+unicode = 1272;
+}

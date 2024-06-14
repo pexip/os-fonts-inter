@@ -1,0 +1,98 @@
+{
+glyphname = Cheverticalstrokecyrillic;
+layers = (
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (503,-77);
+ref = _part.crossbar_vert;
+}
+);
+width = 1448;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (494,-29);
+ref = _part.crossbar_vert;
+}
+);
+width = 1468;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (549,-105);
+ref = _part.crossbar_vert;
+}
+);
+width = 1438;
+},
+{
+layerId = m008;
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (471,-77);
+ref = _part.crossbar_vert;
+}
+);
+width = 1384;
+},
+{
+layerId = m010;
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (483,-19);
+ref = _part.crossbar_vert;
+}
+);
+width = 1436;
+},
+{
+layerId = m012;
+name = ital_gen;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (488,-105);
+ref = _part.crossbar_vert;
+}
+);
+width = 1310;
+}
+);
+metricLeft = afii10041;
+metricRight = afii10041;
+unicode = 1208;
+userData = {
+interface.gridadjust.original = "{'width': 1924, 'leftMargin': 276, 'rightMargin': 152}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

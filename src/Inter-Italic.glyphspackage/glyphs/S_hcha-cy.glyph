@@ -1,0 +1,105 @@
+{
+glyphname = "Shcha-cy";
+kernLeft = B;
+kernRight = Decyrillic;
+layers = (
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+metricRight = "=+64";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1613,0);
+ref = _part.cyrtic;
+}
+);
+width = 2012;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+metricRight = "=+80";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1584,0);
+ref = _part.cyrtic;
+}
+);
+width = 2160;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1534,0);
+ref = _part.cyrtic;
+}
+);
+width = 1862;
+},
+{
+layerId = m008;
+metricRight = "=+64";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1582,0);
+ref = _part.cyrtic;
+}
+);
+width = 1949;
+},
+{
+layerId = m010;
+metricRight = "=+80";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1568,0);
+ref = _part.cyrtic;
+}
+);
+width = 2129;
+},
+{
+layerId = m012;
+metricRight = "=+32";
+name = ital_gen;
+shapes = (
+{
+ref = "Sha-cy";
+},
+{
+pos = (1470,0);
+ref = _part.cyrtic;
+}
+);
+width = 1766;
+}
+);
+metricLeft = afii10042;
+metricRight = t;
+unicode = 1065;
+userData = {
+interface.gridadjust.original = "{'width': 2745, 'leftMargin': 241, 'rightMargin': 120}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

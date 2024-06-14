@@ -1,0 +1,123 @@
+{
+color = (227,245,235,1);
+glyphname = romanthree;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (541,0);
+ref = I;
+},
+{
+pos = (1082,0);
+ref = I;
+}
+);
+width = 1623;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (598,0);
+ref = I;
+},
+{
+pos = (1196,0);
+ref = I;
+}
+);
+width = 1794;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (512,0);
+ref = I;
+},
+{
+pos = (1024,0);
+ref = I;
+}
+);
+width = 1536;
+},
+{
+layerId = m008;
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (476,0);
+ref = I;
+},
+{
+pos = (952,0);
+ref = I;
+}
+);
+width = 1428;
+},
+{
+layerId = m010;
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (576,0);
+ref = I;
+},
+{
+pos = (1152,0);
+ref = I;
+}
+);
+width = 1728;
+},
+{
+layerId = m012;
+name = ital_gen;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (385,0);
+ref = I;
+},
+{
+pos = (770,0);
+ref = I;
+}
+);
+width = 1155;
+}
+);
+unicode = 8546;
+userData = {
+interface.gridadjust.original = "{'width': 2230, 'leftMargin': 256, 'rightMargin': 260}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}
