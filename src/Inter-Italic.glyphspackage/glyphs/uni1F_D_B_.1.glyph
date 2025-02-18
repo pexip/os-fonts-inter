@@ -4,98 +4,108 @@ glyphname = uni1FDB.1;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (240,0);
+pos = (355,0);
 ref = I.1;
 },
 {
-pos = (-120,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (-74,-68);
+ref = tonos;
 }
 );
-width = 1147;
+width = 1258;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (395,0);
+pos = (510,0);
 ref = I.1;
 },
 {
-pos = (-159,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (-215,-92);
+ref = tonos;
 }
 );
-width = 1432;
+width = 1548;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (264,0);
+pos = (207,0);
 ref = I.1;
 },
 {
-alignment = -1;
-pos = (-80,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (-3,-67);
+ref = tonos;
 }
 );
-width = 987;
+width = 976;
 },
 {
 layerId = m008;
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (274,0);
+pos = (270,0);
 ref = I.1;
 },
 {
-pos = (-115,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (-80,0);
+ref = tonos;
 }
 );
-width = 1116;
+width = 965;
 },
 {
 layerId = m010;
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (414,0);
+pos = (428,0);
 ref = I.1;
 },
 {
-pos = (-153,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (-204,-17);
+ref = tonos;
 }
 );
-width = 1416;
+width = 1323;
 },
 {
 layerId = m012;
+name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (260,0);
+pos = (135,0);
 ref = I.1;
 },
 {
-alignment = -1;
-pos = (-84,0);
-ref = uni1FFD.tonos;
+alignment = 1;
+pos = (7,0);
+ref = tonos;
 }
 );
-width = 845;
+width = 644;
 }
 );
-metricLeft = I.1;
+metricLeft = T;
 metricRight = I.1;
 unicode = 57385;
 }

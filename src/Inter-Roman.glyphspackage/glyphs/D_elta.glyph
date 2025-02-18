@@ -1,7 +1,7 @@
 {
 glyphname = Delta;
-kernLeft = Alphagreek;
-kernRight = Alphagreek;
+kernLeft = A;
+kernRight = A;
 layers = (
 {
 background = {
@@ -16,23 +16,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1332,0,l),
-(786,1490,l),
-(600,1490,l),
+(1343,0,l),
+(800,1490,l),
+(598,1490,l),
 (52,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(686,1254,l),
-(698,1254,l),
-(1086,160,l),
-(300,160,l)
+(692,1246,l),
+(704,1246,l),
+(1085,167,l),
+(313,167,l)
 );
 }
 );
-width = 1384;
+width = 1395;
 },
 {
 background = {
@@ -44,8 +44,8 @@ ref = Lambda;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-96,1240);
 },
 {
@@ -141,8 +141,8 @@ ref = Lambda;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-5039,1240);
 },
 {
@@ -178,30 +178,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1132,0,l),
-(578,1490,l),
-(556,1490,l),
-(2,0,l)
+(1150,0,l),
+(596,1490,l),
+(574,1490,l),
+(20,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(566,1382,l),
-(568,1382,l),
-(1064,46,l),
-(70,46,l)
+(584,1382,l),
+(586,1382,l),
+(1082,46,l),
+(88,46,l)
 );
 }
 );
-width = 1134;
+width = 1170;
 }
 );
 metricLeft = A;
 metricRight = A;
-tags = (
-"TODO-opsz"
-);
 unicode = (916,8710);
 userData = {
 interface.gridadjust.original = "{'width': 1991.0, 'leftMargin': 40, 'rightMargin': 66.0}";

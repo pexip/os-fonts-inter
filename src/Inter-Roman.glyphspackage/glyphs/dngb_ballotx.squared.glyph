@@ -9,8 +9,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (512,42);
+alignment = -1;
+pos = (511,42);
 ref = dngb_ballotx;
 }
 );
@@ -24,8 +24,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (576,42);
+alignment = -1;
+pos = (575,42);
 ref = dngb_ballotx;
 }
 );
@@ -39,8 +39,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (512,63);
+alignment = -1;
+pos = (506,63);
 ref = dngb_ballotx;
 }
 );
@@ -54,7 +54,7 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (544,63);
 ref = dngb_ballotx;
 }
@@ -69,7 +69,7 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (512,97);
 ref = dngb_ballotx;
 }
@@ -84,7 +84,7 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (528,97);
 ref = dngb_ballotx;
 }

@@ -12,8 +12,8 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (-92,0);
-ref = dieresis;
+pos = (-16,0);
+ref = dieresiscomb;
 }
 );
 width = 1190;
@@ -26,11 +26,11 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (20,0);
-ref = dieresis;
+pos = (10,0);
+ref = dieresiscomb;
 }
 );
-width = 1246;
+width = 1254;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -40,8 +40,8 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (163,0);
-ref = dieresis;
+pos = (5,0);
+ref = dieresiscomb;
 }
 );
 width = 1322;
@@ -54,11 +54,11 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (-6,0);
-ref = dieresis;
+pos = (-2,0);
+ref = dieresiscomb;
 }
 );
-width = 1162;
+width = 1160;
 },
 {
 layerId = m009;
@@ -68,8 +68,8 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (160,0);
-ref = dieresis;
+pos = (-11,0);
+ref = dieresiscomb;
 }
 );
 width = 1274;
@@ -82,11 +82,11 @@ alignment = 1;
 ref = a.1;
 },
 {
-pos = (-92,42);
-ref = dieresis;
+pos = (-4,0);
+ref = dieresiscomb;
 }
 );
-width = 1062;
+width = 1118;
 }
 );
 unicode = 57404;

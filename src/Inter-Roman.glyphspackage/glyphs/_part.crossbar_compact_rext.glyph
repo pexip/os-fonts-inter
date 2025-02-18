@@ -5,13 +5,13 @@ layers = (
 anchors = (
 {
 name = _cross;
-pos = (460,721);
+pos = (463,721);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (908,1168);
 },
 {
@@ -24,14 +24,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(780,654,l),
-(780,788,l),
-(140,788,l),
-(140,654,l)
+(786,655,l),
+(786,787,l),
+(140,787,l),
+(140,655,l)
 );
 }
 );
-width = 920;
+width = 926;
 },
 {
 anchors = (
@@ -84,8 +84,8 @@ pos = (448,720);
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-3786,1168);
 },
 {
@@ -157,9 +157,6 @@ width = 722;
 }
 );
 note = "based on /crossbar with thinner stem for wght=900";
-tags = (
-"TODO-opsz"
-);
 userData = {
 "interface.width-adjustments" = (
 -16

@@ -26,7 +26,7 @@ nodes = (
 ref = T;
 }
 );
-width = 1314;
+width = 1322;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -135,7 +135,7 @@ nodes = (
 ref = T;
 }
 );
-width = 1392;
+width = 1344;
 },
 {
 layerId = m011;
@@ -163,14 +163,11 @@ alignment = -1;
 ref = T;
 }
 );
-width = 1126;
+width = 1206;
 }
 );
 metricLeft = T;
 metricRight = T;
-tags = (
-"TODO-opsz"
-);
 unicode = 8366;
 userData = {
 interface.gridadjust.original = "{'width': 1680, 'leftMargin': 128, 'rightMargin': 16}";

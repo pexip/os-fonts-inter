@@ -10,11 +10,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-190,0);
-ref = casetilde.cn;
+pos = (-242,372);
+ref = tildecomb;
 }
 );
-width = 540;
+width = 550;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,8 +23,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (-216,0);
-ref = casetilde.cn;
+pos = (-212,372);
+ref = tildecomb;
 }
 );
 width = 596;
@@ -36,11 +36,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-168,0);
-ref = casetilde.cn;
+pos = (-249,372);
+ref = tildecomb;
 }
 );
-width = 512;
+width = 510;
 },
 {
 layerId = m007;
@@ -49,8 +49,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (-190,2);
-ref = casetilde.cn;
+pos = (-242,434);
+ref = tildecomb;
 }
 );
 width = 476;
@@ -62,8 +62,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (-212,0);
-ref = casetilde.cn;
+pos = (-224,434);
+ref = tildecomb;
 }
 );
 width = 576;
@@ -75,11 +75,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-168,0);
-ref = casetilde.cn;
+pos = (-257,434);
+ref = tildecomb;
 }
 );
-width = 384;
+width = 382;
 }
 );
 metricLeft = Itilde.1;

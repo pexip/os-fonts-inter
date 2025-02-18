@@ -1,5 +1,4 @@
 {
-color = (227,245,235,1);
 glyphname = romanfifty;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = L;
 }
 );
-width = 1152;
+width = 1158;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -18,7 +17,7 @@ shapes = (
 ref = L;
 }
 );
-width = 1170;
+width = 1158;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -36,7 +35,7 @@ shapes = (
 ref = L;
 }
 );
-width = 1088;
+width = 1096;
 },
 {
 layerId = m009;
@@ -45,7 +44,7 @@ shapes = (
 ref = L;
 }
 );
-width = 1138;
+width = 1178;
 },
 {
 layerId = m011;
@@ -54,7 +53,7 @@ shapes = (
 ref = L;
 }
 );
-width = 1024;
+width = 1044;
 }
 );
 unicode = 8556;

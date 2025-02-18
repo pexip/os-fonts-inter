@@ -11,11 +11,11 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (150,0);
-ref = macron;
+pos = (124,0);
+ref = macroncomb;
 }
 );
-width = 1222;
+width = 1228;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -25,8 +25,8 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (-18,0);
-ref = macron;
+pos = (224,0);
+ref = macroncomb;
 }
 );
 width = 1280;
@@ -39,8 +39,8 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (294,0);
-ref = macron;
+pos = (194,0);
+ref = macroncomb;
 }
 );
 width = 1186;
@@ -53,8 +53,8 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (134,-42);
-ref = macron;
+pos = (146,0);
+ref = macroncomb;
 }
 );
 width = 1124;
@@ -67,8 +67,8 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (-20,-42);
-ref = macron;
+pos = (238,0);
+ref = macroncomb;
 }
 );
 width = 1244;
@@ -81,8 +81,8 @@ ref = oogonek;
 },
 {
 alignment = 1;
-pos = (294,0);
-ref = macron;
+pos = (146,0);
+ref = macroncomb;
 }
 );
 width = 1058;

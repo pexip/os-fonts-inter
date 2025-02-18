@@ -10,8 +10,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (300,0);
-ref = casetilde.cn;
+pos = (306,372);
+ref = tildecomb;
 }
 );
 width = 1518;
@@ -23,8 +23,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (222,0);
-ref = casetilde.cn;
+pos = (287,372);
+ref = tildecomb;
 }
 );
 width = 1478;
@@ -36,11 +36,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (343,0);
-ref = casetilde.cn;
+pos = (294,372);
+ref = tildecomb;
 }
 );
-width = 1537;
+width = 1535;
 },
 {
 layerId = m008;
@@ -49,11 +49,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (306,0);
-ref = casetilde.cn;
+pos = (311,434);
+ref = tildecomb;
 }
 );
-width = 1454;
+width = 1440;
 },
 {
 layerId = m010;
@@ -62,11 +62,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (228,0);
-ref = casetilde.cn;
+pos = (281,434);
+ref = tildecomb;
 }
 );
-width = 1446;
+width = 1443;
 },
 {
 layerId = m012;
@@ -75,11 +75,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (343,0);
-ref = casetilde.cn;
+pos = (300,434);
+ref = tildecomb;
 }
 );
-width = 1409;
+width = 1351;
 }
 );
 unicode = 7918;

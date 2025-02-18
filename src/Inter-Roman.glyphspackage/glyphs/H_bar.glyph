@@ -6,8 +6,8 @@ layers = (
 {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (972,2068);
 }
 );
@@ -71,9 +71,9 @@ width = 1530;
 {
 guides = (
 {
-orientation = center;
 angle = 90;
-pos = (-6325,2068);
+orientation = center;
+pos = (-7104,2068);
 }
 );
 layerId = m007;
@@ -81,18 +81,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(66,1176,l),
-(66,1024,l),
-(1460,1024,l),
-(1460,1176,l)
+(50,1176,l),
+(50,1024,l),
+(1444,1024,l),
+(1444,1176,l)
 );
 },
 {
-pos = (38,0);
+pos = (22,0);
 ref = H;
 }
 );
-width = 1526;
+width = 1494;
 },
 {
 layerId = m009;
@@ -136,9 +136,6 @@ width = 1394;
 );
 metricLeft = T;
 metricRight = T;
-tags = (
-"TODO-opsz"
-);
 unicode = 294;
 userData = {
 interface.gridadjust.original = "{'width': 1980.0, 'leftMargin': 43, 'rightMargin': 22.0}";

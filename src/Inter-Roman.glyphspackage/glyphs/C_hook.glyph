@@ -10,11 +10,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (1150,0);
+pos = (1146,1);
 ref = _part.top_r_hook_C;
 }
 );
-width = 1490;
+width = 1496;
 },
 {
 guides = (
@@ -29,11 +29,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (960,0);
+pos = (938,16);
 ref = _part.top_r_hook_C;
 }
 );
-width = 1574;
+width = 1531;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -78,7 +78,7 @@ pos = (930,0);
 ref = _part.top_r_hook_C;
 }
 );
-width = 1508;
+width = 1494;
 },
 {
 layerId = m011;

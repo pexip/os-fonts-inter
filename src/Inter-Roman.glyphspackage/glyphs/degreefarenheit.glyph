@@ -9,11 +9,11 @@ alignment = 1;
 ref = degree;
 },
 {
-pos = (930,0);
+pos = (933,0);
 ref = F;
 }
 );
-width = 2132;
+width = 2142;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -55,7 +55,7 @@ pos = (866,0);
 ref = F;
 }
 );
-width = 2004;
+width = 2001;
 },
 {
 layerId = m009;
@@ -69,7 +69,7 @@ pos = (916,0);
 ref = F;
 }
 );
-width = 2108;
+width = 2155;
 },
 {
 layerId = m011;
@@ -83,7 +83,7 @@ pos = (802,0);
 ref = F;
 }
 );
-width = 1870;
+width = 1892;
 }
 );
 metricRight = F;

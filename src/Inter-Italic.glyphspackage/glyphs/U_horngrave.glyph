@@ -10,8 +10,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (267,372);
-ref = grave;
+pos = (410,372);
+ref = gravecomb;
 }
 );
 width = 1518;
@@ -23,8 +23,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (195,372);
-ref = grave;
+pos = (282,372);
+ref = gravecomb;
 }
 );
 width = 1478;
@@ -36,11 +36,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (340,372);
-ref = grave;
+pos = (433,372);
+ref = gravecomb;
 }
 );
-width = 1537;
+width = 1535;
 },
 {
 layerId = m008;
@@ -49,11 +49,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (236,414);
-ref = grave;
+pos = (462,434);
+ref = gravecomb;
 }
 );
-width = 1454;
+width = 1440;
 },
 {
 layerId = m010;
@@ -62,11 +62,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (118,414);
-ref = grave;
+pos = (313,434);
+ref = gravecomb;
 }
 );
-width = 1446;
+width = 1443;
 },
 {
 layerId = m012;
@@ -75,11 +75,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (276,372);
-ref = grave;
+pos = (426,434);
+ref = gravecomb;
 }
 );
-width = 1409;
+width = 1351;
 }
 );
 unicode = 7914;

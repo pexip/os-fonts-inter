@@ -13,7 +13,7 @@ pos = (489,626);
 ref = period;
 }
 );
-width = 1560;
+width = 1566;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -27,7 +27,7 @@ pos = (432,566);
 ref = period;
 }
 );
-width = 1628;
+width = 1588;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -87,9 +87,6 @@ width = 1402;
 }
 );
 metricWidth = O;
-tags = (
-"TODO-opsz"
-);
 unicode = 664;
 userData = {
 com.typemytype.robofont.guideline.magnetic.rNiqLh7mHA = 5;

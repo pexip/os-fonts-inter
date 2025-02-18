@@ -1,11 +1,12 @@
 {
-color = 7;
+color = 9;
 glyphname = one.tf.ss01;
 layers = (
 {
 background = {
 shapes = (
 {
+pos = (-15,0);
 ref = one.tf;
 }
 );
@@ -14,16 +15,27 @@ layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 name = ital_gen;
 shapes = (
 {
-pos = (184,0);
+alignment = -1;
+pos = (169,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(1054,0,l),
+(1080,160,l),
+(159,160,l),
+(133,0,l)
+);
 }
 );
-width = 1326;
+width = 1328;
 },
 {
 background = {
 shapes = (
 {
+pos = (-43,0);
 ref = one.tf;
 }
 );
@@ -32,11 +44,21 @@ layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 name = ital_gen;
 shapes = (
 {
-pos = (227,0);
+alignment = -1;
+pos = (96,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(1124,0,l),
+(1177,322,l),
+(98,322,l),
+(45,0,l)
+);
 }
 );
-width = 1442;
+width = 1320;
 },
 {
 associatedMasterId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -84,6 +106,7 @@ width = 1442;
 background = {
 shapes = (
 {
+pos = (18,0);
 ref = one.tf;
 }
 );
@@ -93,16 +116,26 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (180,0);
+pos = (192,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(975,0,l),
+(983,46,l),
+(166,46,l),
+(158,0,l)
+);
 }
 );
-width = 1210;
+width = 1320;
 },
 {
 background = {
 shapes = (
 {
+pos = (7,0);
 ref = one.tf;
 }
 );
@@ -111,11 +144,21 @@ layerId = m008;
 name = ital_gen;
 shapes = (
 {
-pos = (159,0);
+alignment = -1;
+pos = (187,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(1054,0,l),
+(1080,160,l),
+(159,160,l),
+(133,0,l)
+);
 }
 );
-width = 1262;
+width = 1320;
 },
 {
 associatedMasterId = m008;
@@ -142,6 +185,7 @@ width = 1222;
 background = {
 shapes = (
 {
+pos = (-53,0);
 ref = one.tf;
 }
 );
@@ -150,11 +194,21 @@ layerId = m010;
 name = ital_gen;
 shapes = (
 {
-pos = (209,0);
+alignment = -1;
+pos = (137,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(1113,0,l),
+(1166,322,l),
+(135,322,l),
+(82,0,l)
+);
 }
 );
-width = 1410;
+width = 1320;
 },
 {
 associatedMasterId = m010;
@@ -181,6 +235,7 @@ width = 1442;
 background = {
 shapes = (
 {
+pos = (66,0);
 ref = one.tf;
 }
 );
@@ -190,13 +245,23 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (180,0);
+pos = (248,0);
 ref = one.ss01;
+},
+{
+closed = 1;
+nodes = (
+(980,0,l),
+(988,46,l),
+(171,46,l),
+(163,0,l)
+);
 }
 );
-width = 1082;
+width = 1320;
 }
 );
+metricLeft = one.tf;
 metricWidth = zero.tf;
 unicode = 57468;
 }

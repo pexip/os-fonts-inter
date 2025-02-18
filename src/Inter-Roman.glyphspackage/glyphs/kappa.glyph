@@ -8,7 +8,7 @@ shapes = (
 ref = kgreenlandic;
 }
 );
-width = 1061;
+width = 1076;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -44,7 +44,7 @@ shapes = (
 ref = kgreenlandic;
 }
 );
-width = 1280;
+width = 1262;
 },
 {
 layerId = m011;
@@ -53,11 +53,8 @@ shapes = (
 ref = kgreenlandic;
 }
 );
-width = 896;
+width = 898;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 954;
 }

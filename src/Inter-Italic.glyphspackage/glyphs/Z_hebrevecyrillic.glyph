@@ -8,84 +8,84 @@ layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (573,372);
-ref = breve;
+pos = (656,372);
+ref = brevecomb;
 }
 );
-width = 1944;
+width = 1966;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (753,372);
-ref = breve;
+pos = (770,372);
+ref = brevecomb;
 }
 );
-width = 2410;
+width = 2378;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (545,372);
-ref = breve;
+pos = (606,372);
+ref = brevecomb;
 }
 );
-width = 1804;
+width = 1796;
 },
 {
 layerId = m008;
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (581,414);
-ref = breve;
+pos = (614,434);
+ref = brevecomb;
 }
 );
-width = 1877;
+width = 1879;
 },
 {
 layerId = m010;
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (721,414);
-ref = breve;
+pos = (694,434);
+ref = brevecomb;
 }
 );
-width = 2298;
+width = 2206;
 },
 {
 layerId = m012;
 name = ital_gen;
 shapes = (
 {
-ref = afii10024;
+ref = "Zhe-cy";
 },
 {
-pos = (488,414);
-ref = breve;
+pos = (575,434);
+ref = brevecomb;
 }
 );
-width = 1676;
+width = 1714;
 }
 );
 unicode = 1217;

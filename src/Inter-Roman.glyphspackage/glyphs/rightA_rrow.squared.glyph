@@ -9,8 +9,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (437,93);
+alignment = -1;
+pos = (410,93);
 ref = rightArrow;
 }
 );
@@ -24,8 +24,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (501,93);
+alignment = -1;
+pos = (474,93);
 ref = rightArrow;
 }
 );
@@ -39,8 +39,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (437,93);
+alignment = -1;
+pos = (410,93);
 ref = rightArrow;
 }
 );
@@ -54,8 +54,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (469,93);
+alignment = -1;
+pos = (442,93);
 ref = rightArrow;
 }
 );
@@ -69,8 +69,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (437,94);
+alignment = -1;
+pos = (410,94);
 ref = rightArrow;
 }
 );
@@ -84,8 +84,8 @@ alignment = 1;
 ref = whiteLargeSquare;
 },
 {
-alignment = 1;
-pos = (453,94);
+alignment = -1;
+pos = (426,94);
 ref = rightArrow;
 }
 );

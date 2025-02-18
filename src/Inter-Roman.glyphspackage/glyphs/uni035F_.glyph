@@ -1,6 +1,5 @@
 {
 case = minor;
-color = (250,227,227,1);
 glyphname = uni035F;
 layers = (
 {
@@ -106,8 +105,5 @@ width = 0;
 );
 metricLeft = uni035E;
 metricRight = uni035E;
-tags = (
-"TODO-opsz"
-);
 unicode = 863;
 }

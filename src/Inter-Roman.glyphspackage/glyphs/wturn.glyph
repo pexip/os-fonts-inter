@@ -9,41 +9,98 @@ pos = (832,0);
 },
 {
 name = top;
-pos = (832,1304);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (1136,176);
+pos = (832,1118);
 }
 );
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
 angle = 180;
-pos = (1664,1118);
+pos = (1676,1118);
 ref = w;
 }
 );
-width = 1664;
+width = 1676;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (888,0);
+pos = (898,0);
 },
 {
 name = top;
-pos = (896,1304);
+pos = (898,1118);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 angle = 180;
-pos = (1792,1118);
+pos = (1796,1118);
+ref = w;
+}
+);
+width = 1796;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (828,0);
+},
+{
+name = top;
+pos = (828,1118);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+angle = 180;
+pos = (1656,1118);
+ref = w;
+}
+);
+width = 1656;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (770,0);
+},
+{
+name = top;
+pos = (770,1056);
+}
+);
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (1540,1056);
+ref = w;
+}
+);
+width = 1540;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (896,0);
+},
+{
+name = top;
+pos = (896,1056);
+}
+);
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (1792,1056);
 ref = w;
 }
 );
@@ -53,91 +110,22 @@ width = 1792;
 anchors = (
 {
 name = bottom;
-pos = (808,0);
+pos = (737,0);
 },
 {
 name = top;
-pos = (808,1304);
-}
-);
-layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
-shapes = (
-{
-angle = 180;
-pos = (1618,1118);
-ref = w;
-}
-);
-width = 1618;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (832,0);
-},
-{
-name = top;
-pos = (832,1304);
-}
-);
-guides = (
-{
-angle = 90;
-pos = (1136,176);
-}
-);
-layerId = m007;
-shapes = (
-{
-angle = 180;
-pos = (1524,1056);
-ref = w;
-}
-);
-width = 1524;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (888,0);
-},
-{
-name = top;
-pos = (896,1304);
-}
-);
-layerId = m009;
-shapes = (
-{
-angle = 180;
-pos = (1744,1056);
-ref = w;
-}
-);
-width = 1744;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (808,0);
-},
-{
-name = top;
-pos = (808,1304);
+pos = (737,1056);
 }
 );
 layerId = m011;
 shapes = (
 {
 angle = 180;
-pos = (1490,1118);
+pos = (1473,1056);
 ref = w;
 }
 );
-width = 1490;
+width = 1473;
 }
 );
 unicode = 653;

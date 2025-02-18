@@ -18,11 +18,11 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (-204,397);
+pos = (-216,397);
 ref = _part.curl_sw;
 }
 );
-width = 1070;
+width = 1048;
 },
 {
 background = {
@@ -39,11 +39,11 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (16,394);
+pos = (-78,394);
 ref = _part.curl_sw;
 }
 );
-width = 894;
+width = 742;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -147,11 +147,11 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (-341,400);
+pos = (-358,400);
 ref = _part.curl_sw;
 }
 );
-width = 826;
+width = 803;
 },
 {
 background = {
@@ -168,11 +168,11 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (-194,398);
+pos = (-198,398);
 ref = _part.curl_sw;
 }
 );
-width = 1112;
+width = 1100;
 },
 {
 background = {
@@ -189,11 +189,11 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (-48,394);
+pos = (-88,394);
 ref = _part.curl_sw;
 }
 );
-width = 756;
+width = 712;
 },
 {
 associatedMasterId = m011;
@@ -348,19 +348,16 @@ shapes = (
 ref = _part.tcurl_base;
 },
 {
-pos = (-60,398);
+pos = (-108,398);
 ref = _part.curl_sw;
 }
 );
-width = 912;
+width = 836;
 }
 );
 metricLeft = t;
 metricRight = t;
 note = "recipe: offset curve 32, no auto";
-tags = (
-"TODO-opsz"
-);
 unicode = 566;
 userData = {
 interface.gridadjust.original = "{'width': 1233, 'leftMargin': 28, 'rightMargin': 41}";

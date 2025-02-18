@@ -1,5 +1,7 @@
 {
 glyphname = "edieresis-cy";
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -8,11 +10,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (-38,0);
-ref = dieresis;
+pos = (-48,0);
+ref = dieresiscomb;
 }
 );
-width = 1150;
+width = 1168;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -21,11 +23,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (92,0);
-ref = dieresis;
+pos = (-75,0);
+ref = dieresiscomb;
 }
 );
-width = 1238;
+width = 1232;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -34,11 +36,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (-130,-42);
-ref = dieresis;
+pos = (-74,0);
+ref = dieresiscomb;
 }
 );
-width = 1125;
+width = 1096;
 },
 {
 layerId = m008;
@@ -47,11 +49,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (-48,0);
-ref = dieresis;
+pos = (-53,0);
+ref = dieresiscomb;
 }
 );
-width = 1071;
+width = 1069;
 },
 {
 layerId = m010;
@@ -60,11 +62,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (98,0);
-ref = dieresis;
+pos = (-50,0);
+ref = dieresiscomb;
 }
 );
-width = 1194;
+width = 1192;
 },
 {
 layerId = m012;
@@ -73,11 +75,11 @@ shapes = (
 ref = ereversedcyrillic;
 },
 {
-pos = (-123,0);
-ref = dieresis;
+pos = (-47,0);
+ref = dieresiscomb;
 }
 );
-width = 997;
+width = 1018;
 }
 );
 unicode = 1261;

@@ -45,7 +45,7 @@ pos = (15,93);
 ref = rightArrow;
 }
 );
-width = 1890;
+width = 1891;
 },
 {
 layerId = m010;
@@ -67,11 +67,12 @@ pos = (15,93);
 ref = rightArrow;
 }
 );
-width = 1826;
+width = 1827;
 }
 );
 metricLeft = rightArrow;
 metricWidth = rightArrow;
+unicode = 57815;
 userData = {
 "interface.width-adjustments" = (
 -16

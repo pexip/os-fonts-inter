@@ -8,11 +8,11 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (110,-511);
+pos = (109,-537);
 ref = crossbar;
 }
 );
-width = 1106;
+width = 1111;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -21,7 +21,7 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (106,-555);
+pos = (106,-579);
 ref = crossbar;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (158,-486);
+pos = (158,-509);
 ref = crossbar;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (90,-510);
+pos = (90,-535);
 ref = crossbar;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (90,-555);
+pos = (114,-579);
 ref = crossbar;
 }
 );
@@ -73,15 +73,12 @@ shapes = (
 ref = glottalstoprevinv;
 },
 {
-pos = (158,-486);
+pos = (158,-509);
 ref = crossbar;
 }
 );
 width = 900;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 674;
 userData = {

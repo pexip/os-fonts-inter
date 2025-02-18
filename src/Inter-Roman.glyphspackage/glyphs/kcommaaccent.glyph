@@ -14,7 +14,7 @@ pos = (296,0);
 ref = commaaccent;
 }
 );
-width = 1114;
+width = 1124;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -49,11 +49,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (298,0);
+pos = (296,0);
 ref = commaaccent;
 }
 );
-width = 1041;
+width = 1039;
 },
 {
 layerId = m009;
@@ -79,7 +79,7 @@ pos = (258,0);
 ref = commaaccent;
 }
 );
-width = 870;
+width = 848;
 }
 );
 unicode = 311;

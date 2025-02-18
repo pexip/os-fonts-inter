@@ -9,7 +9,7 @@ alignment = 1;
 ref = semicolon;
 }
 );
-width = 610;
+width = 618;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -39,7 +39,7 @@ alignment = 1;
 ref = semicolon;
 }
 );
-width = 446;
+width = 456;
 },
 {
 layerId = m009;
@@ -61,9 +61,6 @@ ref = semicolon;
 );
 width = 396;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 894;
 userData = {

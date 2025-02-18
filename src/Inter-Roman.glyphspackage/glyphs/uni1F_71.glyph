@@ -9,11 +9,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (336,0);
-ref = uni1FFD;
+pos = (390,0);
+ref = oxia;
 }
 );
-width = 1312;
+width = 1360;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -22,11 +22,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (310,0);
-ref = uni1FFD;
+pos = (282,0);
+ref = oxia;
 }
 );
-width = 1350;
+width = 1473;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -35,11 +35,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (358,0);
-ref = uni1FFD;
+pos = (468,0);
+ref = oxia;
 }
 );
-width = 1290;
+width = 1265;
 },
 {
 layerId = m007;
@@ -48,11 +48,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (336,0);
-ref = uni1FFD;
+pos = (372,0);
+ref = oxia;
 }
 );
-width = 1248;
+width = 1284;
 },
 {
 layerId = m009;
@@ -61,11 +61,11 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (310,0);
-ref = uni1FFD;
+pos = (278,0);
+ref = oxia;
 }
 );
-width = 1318;
+width = 1449;
 },
 {
 layerId = m011;
@@ -74,15 +74,12 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (358,0);
-ref = uni1FFD;
+pos = (459,0);
+ref = oxia;
 }
 );
-width = 1162;
+width = 1170;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 8049;
 }

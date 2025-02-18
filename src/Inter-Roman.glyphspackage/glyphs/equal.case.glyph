@@ -14,7 +14,7 @@ pos = (0,163);
 ref = equal;
 }
 );
-width = 1350;
+width = 1355;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -74,9 +74,7 @@ width = 1176;
 );
 metricLeft = equal;
 metricWidth = equal;
-tags = (
-"TODO-opsz"
-);
+unicode = 57499;
 userData = {
 interface.gridadjust.original = "{'width': 1664, 'leftMargin': 256, 'rightMargin': 256}";
 "interface.width-adjustments" = (

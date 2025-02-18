@@ -1,5 +1,4 @@
 {
-color = (227,245,235,1);
 glyphname = romaneight;
 kernLeft = V;
 kernRight = H;
@@ -11,19 +10,19 @@ shapes = (
 ref = V;
 },
 {
-pos = (1384,0);
+pos = (1413,0);
 ref = I;
 },
 {
-pos = (1924,0);
+pos = (1963,0);
 ref = I;
 },
 {
-pos = (2464,0);
+pos = (2513,0);
 ref = I;
 }
 );
-width = 3004;
+width = 3063;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -53,19 +52,19 @@ shapes = (
 ref = V;
 },
 {
-pos = (1262,0);
+pos = (1310,0);
 ref = I;
 },
 {
-pos = (1774,0);
+pos = (1820,0);
 ref = I;
 },
 {
-pos = (2286,0);
+pos = (2330,0);
 ref = I;
 }
 );
-width = 2798;
+width = 2840;
 },
 {
 layerId = m007;
@@ -116,19 +115,19 @@ shapes = (
 ref = V;
 },
 {
-pos = (1134,0);
+pos = (1218,0);
 ref = I;
 },
 {
-pos = (1518,0);
+pos = (1600,0);
 ref = I;
 },
 {
-pos = (1902,0);
+pos = (1982,0);
 ref = I;
 }
 );
-width = 2286;
+width = 2364;
 }
 );
 metricLeft = V;

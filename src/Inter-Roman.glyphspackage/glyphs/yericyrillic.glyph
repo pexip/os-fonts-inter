@@ -1,13 +1,13 @@
 {
 glyphname = yericyrillic;
-kernLeft = idotless;
-kernRight = idotless;
+kernLeft = i;
+kernRight = i;
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (749,1304);
+pos = (749,1118);
 }
 );
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -21,13 +21,13 @@ pos = (1012,0);
 ref = idotless;
 }
 );
-width = 1498;
+width = 1508;
 },
 {
 anchors = (
 {
 name = top;
-pos = (887,1304);
+pos = (887,1118);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -47,7 +47,7 @@ width = 1774;
 anchors = (
 {
 name = top;
-pos = (639,1304);
+pos = (639,1118);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -67,7 +67,7 @@ width = 1278;
 anchors = (
 {
 name = top;
-pos = (699,1262);
+pos = (699,1056);
 }
 );
 layerId = m007;
@@ -81,13 +81,13 @@ pos = (974,0);
 ref = idotless;
 }
 );
-width = 1398;
+width = 1396;
 },
 {
 anchors = (
 {
 name = top;
-pos = (809,1262);
+pos = (809,1056);
 }
 );
 layerId = m009;
@@ -107,7 +107,7 @@ width = 1618;
 anchors = (
 {
 name = top;
-pos = (553,1262);
+pos = (577,1056);
 }
 );
 layerId = m011;
@@ -117,18 +117,15 @@ ref = softsigncyrillic;
 },
 {
 alignment = -1;
-pos = (792,0);
+pos = (848,0);
 ref = idotless;
 }
 );
-width = 1106;
+width = 1162;
 }
 );
 metricLeft = n;
 metricRight = n;
-tags = (
-"TODO-opsz"
-);
 unicode = 1099;
 userData = {
 interface.gridadjust.original = "{'width': 2203, 'leftMargin': 168, 'rightMargin': 244}";

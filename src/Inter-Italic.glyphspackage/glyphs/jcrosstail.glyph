@@ -1,6 +1,6 @@
 {
 glyphname = jcrosstail;
-kernRight = idotless;
+kernRight = i;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -11,8 +11,8 @@ pos = (-2,0);
 ref = jcrosstail.ccmp;
 },
 {
-pos = (225,2);
-ref = dotaccent;
+pos = (224,0);
+ref = dotaccentcomb;
 }
 );
 width = 710;
@@ -26,8 +26,8 @@ pos = (-2,0);
 ref = jcrosstail.ccmp;
 },
 {
-pos = (415,0);
-ref = dotaccent;
+pos = (416,0);
+ref = dotaccentcomb;
 }
 );
 width = 1137;
@@ -41,8 +41,8 @@ pos = (2,0);
 ref = jcrosstail.ccmp;
 },
 {
-pos = (125,0);
-ref = dotaccent;
+pos = (124,0);
+ref = dotaccentcomb;
 }
 );
 width = 457;
@@ -55,8 +55,8 @@ shapes = (
 ref = jcrosstail.ccmp;
 },
 {
-pos = (225,0);
-ref = dotaccent;
+pos = (223,0);
+ref = dotaccentcomb;
 }
 );
 width = 646;
@@ -69,8 +69,8 @@ shapes = (
 ref = jcrosstail.ccmp;
 },
 {
-pos = (418,0);
-ref = dotaccent;
+pos = (416,0);
+ref = dotaccentcomb;
 }
 );
 width = 1106;
@@ -84,8 +84,8 @@ pos = (-5,0);
 ref = jcrosstail.ccmp;
 },
 {
-pos = (122,0);
-ref = dotaccent;
+pos = (118,0);
+ref = dotaccentcomb;
 }
 );
 width = 326;

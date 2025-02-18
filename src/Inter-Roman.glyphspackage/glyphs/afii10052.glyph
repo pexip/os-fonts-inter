@@ -10,11 +10,11 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (280,372);
-ref = acute;
+pos = (389,372);
+ref = acutecomb;
 }
 );
-width = 1178;
+width = 1185;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,8 +23,8 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (248,372);
-ref = acute;
+pos = (334,372);
+ref = acutecomb;
 }
 );
 width = 1200;
@@ -36,8 +36,8 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (352,372);
-ref = acute;
+pos = (420,372);
+ref = acutecomb;
 }
 );
 width = 1172;
@@ -49,11 +49,11 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (249,414);
-ref = acute;
+pos = (436,434);
+ref = acutecomb;
 }
 );
-width = 1114;
+width = 1098;
 },
 {
 layerId = m009;
@@ -62,8 +62,8 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (212,414);
-ref = acute;
+pos = (404,434);
+ref = acutecomb;
 }
 );
 width = 1168;
@@ -75,15 +75,12 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (288,372);
-ref = acute;
+pos = (438,434);
+ref = acutecomb;
 }
 );
 width = 1040;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 1027;
 }

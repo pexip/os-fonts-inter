@@ -1,7 +1,7 @@
 {
 glyphname = emacronacute;
 kernLeft = o;
-kernRight = e;
+kernRight = o;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -11,11 +11,11 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (978,0);
-ref = macronacutecomb.lc;
+pos = (115,0);
+ref = macronacutecomb;
 }
 );
-width = 1188;
+width = 1194;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -25,8 +25,8 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (1088,0);
-ref = macronacutecomb.lc;
+pos = (206,0);
+ref = macronacutecomb;
 }
 );
 width = 1242;
@@ -39,8 +39,8 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (968,0);
-ref = macronacutecomb.lc;
+pos = (190,0);
+ref = macronacutecomb;
 }
 );
 width = 1172;
@@ -53,8 +53,8 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (960,-42);
-ref = macronacutecomb.lc;
+pos = (134,0);
+ref = macronacutecomb;
 }
 );
 width = 1098;
@@ -67,8 +67,8 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (1081,-42);
-ref = macronacutecomb.lc;
+pos = (215,0);
+ref = macronacutecomb;
 }
 );
 width = 1194;
@@ -81,8 +81,8 @@ ref = e;
 },
 {
 alignment = 1;
-pos = (968,0);
-ref = macronacutecomb.lc;
+pos = (142,0);
+ref = macronacutecomb;
 }
 );
 width = 1048;
