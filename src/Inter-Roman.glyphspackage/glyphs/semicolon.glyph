@@ -21,7 +21,7 @@ pos = (28,809);
 ref = period;
 }
 );
-width = 610;
+width = 618;
 },
 {
 guides = (
@@ -94,7 +94,7 @@ pos = (6,784);
 ref = period;
 }
 );
-width = 446;
+width = 456;
 },
 {
 guides = (
@@ -148,9 +148,6 @@ width = 396;
 );
 metricLeft = comma;
 metricRight = period;
-tags = (
-"TODO-opsz"
-);
 unicode = 59;
 userData = {
 "interface.width-adjustments" = (

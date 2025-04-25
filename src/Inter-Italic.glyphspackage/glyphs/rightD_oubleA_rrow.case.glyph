@@ -45,7 +45,7 @@ pos = (15,93);
 ref = rightDoubleArrow;
 }
 );
-width = 1890;
+width = 1891;
 },
 {
 layerId = m010;
@@ -67,9 +67,10 @@ pos = (15,93);
 ref = rightDoubleArrow;
 }
 );
-width = 1826;
+width = 1827;
 }
 );
 metricLeft = rightDoubleArrow;
 metricWidth = rightDoubleArrow;
+unicode = 57818;
 }

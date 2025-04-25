@@ -10,11 +10,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (1054,0);
+pos = (1051,0);
 ref = _part.cyrtail;
 }
 );
-width = 1514;
+width = 1522;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -36,11 +36,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (1178,0);
+pos = (1176,0);
 ref = _part.cyrtail;
 }
 );
-width = 1506;
+width = 1504;
 },
 {
 layerId = m007;
@@ -75,18 +75,15 @@ shapes = (
 ref = H;
 },
 {
-pos = (1114,0);
+pos = (1112,0);
 ref = _part.cyrtail;
 }
 );
-width = 1378;
+width = 1376;
 }
 );
 metricLeft = H;
 metricRight = t;
-tags = (
-"TODO-opsz"
-);
 unicode = 1225;
 userData = {
 interface.gridadjust.original = "{'width': 2166, 'leftMargin': 256, 'rightMargin': 44}";

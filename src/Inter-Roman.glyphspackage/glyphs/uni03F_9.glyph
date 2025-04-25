@@ -10,7 +10,7 @@ shapes = (
 ref = C;
 }
 );
-width = 1490;
+width = 1496;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -19,7 +19,7 @@ shapes = (
 ref = C;
 }
 );
-width = 1574;
+width = 1531;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -46,7 +46,7 @@ shapes = (
 ref = C;
 }
 );
-width = 1508;
+width = 1494;
 },
 {
 layerId = m011;

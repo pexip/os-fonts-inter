@@ -1,5 +1,5 @@
 {
-color = 4;
+category = Mark;
 glyphname = commaaccentright.cn;
 layers = (
 {
@@ -14,14 +14,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(322,1182,l),
-(374,1560,l),
+(326,1182,l),
+(378,1560,l),
 (198,1560,l),
 (198,1182,l)
 );
 }
 );
-width = 546;
+width = 550;
 },
 {
 anchors = (
@@ -128,9 +128,6 @@ nodes = (
 );
 width = 440;
 }
-);
-tags = (
-"TODO-opsz"
 );
 userData = {
 interface.gridadjust.original = "{'width': 718, 'leftMargin': 118, 'rightMargin': 235}";

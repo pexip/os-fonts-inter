@@ -1,7 +1,7 @@
 {
 glyphname = edieresis;
 kernLeft = o;
-kernRight = e;
+kernRight = o;
 layers = (
 {
 guides = (
@@ -16,11 +16,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (-6,0);
-ref = dieresis;
+pos = (-2,0);
+ref = dieresiscomb;
 }
 );
-width = 1188;
+width = 1194;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -29,8 +29,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (115,0);
-ref = dieresis;
+pos = (-43,0);
+ref = dieresiscomb;
 }
 );
 width = 1242;
@@ -42,8 +42,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (-84,0);
-ref = dieresis;
+pos = (-8,0);
+ref = dieresiscomb;
 }
 );
 width = 1172;
@@ -61,8 +61,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (-24,0);
-ref = dieresis;
+pos = (-10,0);
+ref = dieresiscomb;
 }
 );
 width = 1098;
@@ -74,8 +74,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (105,0);
-ref = dieresis;
+pos = (-34,0);
+ref = dieresiscomb;
 }
 );
 width = 1194;
@@ -87,8 +87,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (-84,42);
-ref = dieresis;
+pos = (-8,0);
+ref = dieresiscomb;
 }
 );
 width = 1048;

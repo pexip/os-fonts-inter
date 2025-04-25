@@ -1,6 +1,5 @@
 {
 case = minor;
-color = (204,240,242,1);
 glyphname = ringhalfrightcentered;
 kernLeft = bullet;
 kernRight = bullet;
@@ -11,10 +10,10 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-566);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
-width = 360;
+width = 337;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -22,10 +21,10 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-563);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
-width = 332;
+width = 336;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -33,7 +32,7 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-566);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
 width = 308;
@@ -44,10 +43,10 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-566);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
-width = 296;
+width = 328;
 },
 {
 layerId = m009;
@@ -55,10 +54,10 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-563);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
-width = 300;
+width = 328;
 },
 {
 layerId = m011;
@@ -66,17 +65,14 @@ shapes = (
 {
 alignment = 1;
 pos = (0,-566);
-ref = ringhalfright;
+ref = righthalfringabovecomb;
 }
 );
-width = 180;
+width = 328;
 }
 );
 metricLeft = ringhalfright;
 metricWidth = ringhalfright;
-tags = (
-"TODO-opsz"
-);
 unicode = 722;
 userData = {
 interface.gridadjust.original = "{'width': 393, 'leftMargin': 55, 'rightMargin': 55}";

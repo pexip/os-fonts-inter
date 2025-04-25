@@ -30,7 +30,7 @@ pos = (498,0);
 ref = o;
 }
 );
-width = 1720;
+width = 1726;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -155,18 +155,18 @@ shapes = (
 closed = 1;
 nodes = (
 (180,0,l),
-(180,1118,l),
-(134,1118,l),
+(180,1056,l),
+(134,1056,l),
 (134,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(574,536,l),
-(574,582,l),
-(164,582,l),
-(164,536,l)
+(574,505,l),
+(574,551,l),
+(164,551,l),
+(164,505,l)
 );
 },
 {
@@ -181,9 +181,6 @@ width = 1540;
 metricLeft = n;
 metricRight = o;
 note = "/h.sc + /o";
-tags = (
-"TODO-opsz"
-);
 unicode = 1102;
 userData = {
 interface.gridadjust.original = "{'width': 2300, 'leftMargin': 249, 'rightMargin': 45}";

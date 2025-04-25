@@ -14,7 +14,7 @@ pos = (0,140);
 ref = lessequal;
 }
 );
-width = 1350;
+width = 1355;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -74,7 +74,5 @@ width = 1176;
 );
 metricLeft = lessequal;
 metricWidth = lessequal;
-tags = (
-"TODO-opsz"
-);
+unicode = 57497;
 }

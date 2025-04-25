@@ -10,7 +10,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1363,0);
+pos = (518,0);
 ref = dotbelow;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1276,8);
+pos = (404,0);
 ref = dotbelow;
 }
 );
@@ -36,11 +36,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1324,-24);
+pos = (550,0);
 ref = dotbelow;
 }
 );
-width = 1537;
+width = 1535;
 },
 {
 layerId = m008;
@@ -49,11 +49,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1368,0);
+pos = (509,0);
 ref = dotbelow;
 }
 );
-width = 1454;
+width = 1440;
 },
 {
 layerId = m010;
@@ -62,11 +62,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1281,8);
+pos = (403,0);
 ref = dotbelow;
 }
 );
-width = 1446;
+width = 1443;
 },
 {
 layerId = m012;
@@ -75,11 +75,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (1324,-24);
+pos = (555,0);
 ref = dotbelow;
 }
 );
-width = 1409;
+width = 1351;
 }
 );
 unicode = 7920;

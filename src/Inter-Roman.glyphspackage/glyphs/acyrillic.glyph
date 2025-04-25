@@ -10,7 +10,7 @@ shapes = (
 ref = a;
 }
 );
-width = 1156;
+width = 1150;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -28,7 +28,7 @@ shapes = (
 ref = a;
 }
 );
-width = 1102;
+width = 1076;
 },
 {
 layerId = m007;
@@ -46,7 +46,7 @@ shapes = (
 ref = a;
 }
 );
-width = 1178;
+width = 1194;
 },
 {
 layerId = m011;
@@ -55,7 +55,7 @@ shapes = (
 ref = a;
 }
 );
-width = 974;
+width = 1004;
 }
 );
 unicode = 1072;

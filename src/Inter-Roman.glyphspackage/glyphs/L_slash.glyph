@@ -7,97 +7,103 @@ layers = (
 guides = (
 {
 angle = 30;
-pos = (16,504);
+pos = (86,504);
 }
 );
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+metricLeft = "=+60";
 shapes = (
 {
+pos = (60,0);
 ref = L;
 },
 {
-pos = (14,0);
-ref = slashshortcomb.uc;
+pos = (50,-24);
+ref = slashshort.uc;
 }
 );
-width = 1152;
+width = 1218;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricLeft = "=+100";
 shapes = (
 {
+pos = (100,0);
 ref = L;
 },
 {
-pos = (-30,0);
-ref = slashshortcomb.uc;
+pos = (0,-43);
+ref = slashshort.uc;
 }
 );
-width = 1170;
+width = 1258;
 },
 {
-guides = (
-{
-angle = 30;
-pos = (0,577);
-}
-);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricLeft = "=+30";
 shapes = (
 {
+pos = (30,0);
 ref = L;
 },
 {
-pos = (65,0);
-ref = slashshortcomb.uc;
+pos = (58,-23);
+ref = slashshort.uc;
 }
 );
-width = 1152;
+width = 1182;
 },
 {
 layerId = m007;
+metricLeft = "=+60";
 shapes = (
 {
+pos = (60,0);
 ref = L;
 },
 {
-pos = (-18,0);
-ref = slashshortcomb.uc;
+pos = (26,-23);
+ref = slashshort.uc;
 }
 );
-width = 1088;
+width = 1156;
 },
 {
 layerId = m009;
+metricLeft = "=+100";
 shapes = (
 {
+pos = (100,0);
 ref = L;
 },
 {
-pos = (-46,0);
-ref = slashshortcomb.uc;
+pos = (-21,-43);
+ref = slashshort.uc;
 }
 );
-width = 1138;
+width = 1278;
 },
 {
 guides = (
 {
 angle = 30;
-pos = (-56,577);
+pos = (6,577);
 }
 );
 layerId = m011;
+metricLeft = "=+30";
 shapes = (
 {
+pos = (30,0);
 ref = L;
 },
 {
-pos = (1,0);
-ref = slashshortcomb.uc;
+pos = (-2,-23);
+ref = slashshort.uc;
 }
 );
-width = 1024;
+width = 1074;
 }
 );
 unicode = 321;

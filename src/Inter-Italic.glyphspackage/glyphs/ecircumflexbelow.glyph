@@ -1,7 +1,7 @@
 {
 glyphname = ecircumflexbelow;
 kernLeft = o;
-kernRight = e;
+kernRight = o;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -10,11 +10,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (1194,0);
-ref = circumflexsubnosp;
+pos = (1209,0);
+ref = circumflexsubcomb;
 }
 );
-width = 1173;
+width = 1179;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -23,11 +23,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (1314,0);
-ref = circumflexsubnosp;
+pos = (1310,0);
+ref = circumflexsubcomb;
 }
 );
-width = 1239;
+width = 1232;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -36,8 +36,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (1112,0);
-ref = circumflexsubnosp;
+pos = (1170,0);
+ref = circumflexsubcomb;
 }
 );
 width = 1129;
@@ -49,11 +49,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (1200,0);
-ref = circumflexsubnosp;
+pos = (1133,0);
+ref = circumflexsubcomb;
 }
 );
-width = 1082;
+width = 1080;
 },
 {
 layerId = m010;
@@ -62,11 +62,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (1312,0);
-ref = circumflexsubnosp;
+pos = (1285,0);
+ref = circumflexsubcomb;
 }
 );
-width = 1202;
+width = 1200;
 },
 {
 layerId = m012;
@@ -75,11 +75,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (1110,0);
-ref = circumflexsubnosp;
+pos = (1050,0);
+ref = circumflexsubcomb;
 }
 );
-width = 1005;
+width = 1003;
 }
 );
 unicode = 7705;

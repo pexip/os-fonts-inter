@@ -11,11 +11,11 @@ ref = S;
 },
 {
 anchor = cedilla;
-pos = (374,0);
-ref = cedilla;
+pos = (392,0);
+ref = cedillacomb;
 }
 );
-width = 1306;
+width = 1314;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -25,8 +25,8 @@ ref = S;
 },
 {
 anchor = cedilla;
-pos = (230,0);
-ref = cedilla;
+pos = (238,0);
+ref = cedillacomb;
 }
 );
 width = 1364;
@@ -39,8 +39,8 @@ ref = S;
 },
 {
 anchor = cedilla;
-pos = (414,0);
-ref = cedilla;
+pos = (411,0);
+ref = cedillacomb;
 }
 );
 width = 1254;
@@ -53,8 +53,8 @@ ref = S;
 },
 {
 anchor = cedilla;
-pos = (385,0);
-ref = cedilla;
+pos = (391,0);
+ref = cedillacomb;
 }
 );
 width = 1258;
@@ -68,7 +68,7 @@ ref = S;
 {
 anchor = cedilla;
 pos = (261,0);
-ref = cedilla;
+ref = cedillacomb;
 }
 );
 width = 1403;
@@ -81,8 +81,8 @@ ref = S;
 },
 {
 anchor = cedilla;
-pos = (414,0);
-ref = cedilla;
+pos = (411,0);
+ref = cedillacomb;
 }
 );
 width = 1126;

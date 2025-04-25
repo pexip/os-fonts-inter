@@ -1,5 +1,4 @@
 {
-color = (204,240,242,1);
 glyphname = response;
 kernLeft = B;
 kernRight = R;
@@ -130,9 +129,6 @@ ref = R;
 );
 width = 1134;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 8479;
 userData = {

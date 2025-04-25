@@ -1,5 +1,4 @@
 {
-color = (227,245,235,1);
 glyphname = threeroman;
 layers = (
 {
@@ -9,15 +8,15 @@ shapes = (
 ref = i;
 },
 {
-pos = (486,0);
+pos = (496,0);
 ref = i;
 },
 {
-pos = (972,0);
+pos = (992,0);
 ref = i;
 }
 );
-width = 1458;
+width = 1488;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -60,15 +59,15 @@ shapes = (
 ref = i;
 },
 {
-pos = (426,0);
+pos = (422,0);
 ref = i;
 },
 {
-pos = (852,0);
+pos = (844,0);
 ref = i;
 }
 );
-width = 1278;
+width = 1266;
 },
 {
 layerId = m009;

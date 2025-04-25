@@ -7,11 +7,11 @@ layers = (
 anchors = (
 {
 name = cyrtic;
-pos = (1042,0);
+pos = (1053,0);
 },
 {
 name = top;
-pos = (600,1304);
+pos = (605,1118);
 }
 );
 background = {
@@ -23,8 +23,8 @@ ref = n;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (972,1944);
 }
 );
@@ -33,22 +33,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1042,1118,l),
-(880,1118,l),
-(341,296,l),
-(328,296,l),
-(328,1118,l),
+(1053,1118,l),
+(883,1118,l),
+(351,309,l),
+(338,309,l),
+(338,1118,l),
 (158,1118,l),
 (158,0,l),
-(322,0,l),
-(858,819,l),
-(872,819,l),
+(329,0,l),
+(859,806,l),
+(872,806,l),
 (872,0,l),
-(1042,0,l)
+(1053,0,l)
 );
 }
 );
-width = 1200;
+width = 1211;
 },
 {
 anchors = (
@@ -58,7 +58,7 @@ pos = (1228,0);
 },
 {
 name = top;
-pos = (665,1304);
+pos = (665,1118);
 }
 );
 background = {
@@ -98,7 +98,7 @@ pos = (966,0);
 },
 {
 name = top;
-pos = (582,1304);
+pos = (582,1118);
 }
 );
 background = {
@@ -138,7 +138,7 @@ pos = (1010,0);
 },
 {
 name = top;
-pos = (568,1262);
+pos = (568,1056);
 }
 );
 background = {
@@ -150,8 +150,8 @@ ref = n;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-4669,1944);
 }
 );
@@ -185,7 +185,7 @@ pos = (1212,0);
 },
 {
 name = top;
-pos = (649,1262);
+pos = (649,1056);
 }
 );
 background = {
@@ -225,7 +225,7 @@ pos = (902,0);
 },
 {
 name = top;
-pos = (518,1262);
+pos = (518,1056);
 }
 );
 background = {
@@ -240,16 +240,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(902,1118,l),
-(861,1118,l),
-(182,91,l),
-(180,91,l),
-(180,1118,l),
-(134,1118,l),
+(902,1056,l),
+(861,1056,l),
+(182,87,l),
+(180,87,l),
+(180,1056,l),
+(134,1056,l),
 (134,0,l),
 (176,0,l),
-(854,1026,l),
-(856,1026,l),
+(854,968,l),
+(856,968,l),
 (856,0,l),
 (902,0,l)
 );
@@ -260,9 +260,6 @@ width = 1036;
 );
 metricLeft = n;
 metricRight = n;
-tags = (
-"TODO-opsz"
-);
 unicode = 1080;
 userData = {
 interface.gridadjust.original = "{'width': 1635, 'leftMargin': 213, 'rightMargin': 213}";

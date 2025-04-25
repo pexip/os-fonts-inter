@@ -1,5 +1,4 @@
 {
-color = (250,227,227,1);
 glyphname = arrowheadrightabovecomb;
 layers = (
 {
@@ -92,9 +91,6 @@ ref = arrowheadrightmod;
 );
 width = 0;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 848;
 }

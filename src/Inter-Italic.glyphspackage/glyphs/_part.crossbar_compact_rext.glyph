@@ -5,13 +5,13 @@ layers = (
 anchors = (
 {
 name = _cross;
-pos = (487,721);
+pos = (490,721);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (449,1168);
 },
 {
@@ -25,14 +25,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(796,654,l),
-(818,788,l),
-(178,788,l),
-(156,654,l)
+(802,655,l),
+(824,787,l),
+(178,787,l),
+(156,655,l)
 );
 }
 );
-width = 920;
+width = 926;
 },
 {
 anchors = (
@@ -87,8 +87,8 @@ pos = (480,720);
 );
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (-4233,1168);
 },
 {

@@ -1,7 +1,7 @@
 {
 glyphname = iebrevecyrillic;
 kernLeft = o;
-kernRight = e;
+kernRight = o;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -10,11 +10,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (140,0);
-ref = breve;
+pos = (214,0);
+ref = brevecomb;
 }
 );
-width = 1188;
+width = 1194;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,8 +23,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (110,0);
-ref = breve;
+pos = (142,0);
+ref = brevecomb;
 }
 );
 width = 1242;
@@ -36,8 +36,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (174,0);
-ref = breve;
+pos = (238,0);
+ref = brevecomb;
 }
 );
 width = 1172;
@@ -49,8 +49,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (122,0);
-ref = breve;
+pos = (150,0);
+ref = brevecomb;
 }
 );
 width = 1098;
@@ -62,8 +62,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (103,0);
-ref = breve;
+pos = (119,0);
+ref = brevecomb;
 }
 );
 width = 1194;
@@ -75,8 +75,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (110,42);
-ref = breve;
+pos = (174,0);
+ref = brevecomb;
 }
 );
 width = 1048;

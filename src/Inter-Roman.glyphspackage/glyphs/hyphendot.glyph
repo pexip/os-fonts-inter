@@ -8,7 +8,7 @@ shapes = (
 ref = periodcentered;
 }
 );
-width = 582;
+width = 590;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -35,7 +35,7 @@ shapes = (
 ref = periodcentered;
 }
 );
-width = 440;
+width = 450;
 },
 {
 layerId = m009;
@@ -55,9 +55,6 @@ ref = periodcentered;
 );
 width = 400;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 8231;
 userData = {

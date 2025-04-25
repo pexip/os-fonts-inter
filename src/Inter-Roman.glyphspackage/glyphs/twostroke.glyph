@@ -15,11 +15,11 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (380,47);
-ref = _part.crossbar_compact;
+pos = (241,-111);
+ref = crossbar.uc;
 }
 );
-width = 1240;
+width = 1249;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -29,8 +29,8 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (377,98);
-ref = _part.crossbar_compact;
+pos = (272,-72);
+ref = crossbar.uc;
 }
 );
 width = 1324;
@@ -43,19 +43,13 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (390,22);
-ref = _part.crossbar_compact;
+pos = (348,-108);
+ref = crossbar.uc;
 }
 );
 width = 1272;
 },
 {
-guides = (
-{
-angle = 90;
-pos = (1476,80);
-}
-);
 layerId = m007;
 shapes = (
 {
@@ -63,11 +57,11 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (422,48);
-ref = _part.crossbar_compact;
+pos = (214,-138);
+ref = crossbar.uc;
 }
 );
-width = 1162;
+width = 1149;
 },
 {
 layerId = m009;
@@ -77,11 +71,11 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (391,98);
-ref = _part.crossbar_compact;
+pos = (209,-96);
+ref = crossbar.uc;
 }
 );
-width = 1293;
+width = 1291;
 },
 {
 layerId = m011;
@@ -91,15 +85,12 @@ alignment = 1;
 ref = two;
 },
 {
-pos = (390,22);
-ref = _part.crossbar_compact;
+pos = (231,-165);
+ref = crossbar.uc;
 }
 );
-width = 1144;
+width = 1098;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 443;
 userData = {

@@ -12,8 +12,8 @@ pos = (1,0);
 ref = uni0249.ccmp;
 },
 {
-pos = (-3,0);
-ref = dotaccent;
+pos = (2,0);
+ref = dotaccentcomb;
 }
 );
 width = 486;
@@ -26,8 +26,8 @@ shapes = (
 ref = uni0249.ccmp;
 },
 {
-pos = (-33,0);
-ref = dotaccent;
+pos = (-32,0);
+ref = dotaccentcomb;
 }
 );
 width = 606;
@@ -41,8 +41,8 @@ pos = (-1,0);
 ref = uni0249.ccmp;
 },
 {
-pos = (39,0);
-ref = dotaccent;
+pos = (40,0);
+ref = dotaccentcomb;
 }
 );
 width = 455;
@@ -55,8 +55,8 @@ shapes = (
 ref = uni0249.ccmp;
 },
 {
-pos = (-1,0);
-ref = dotaccent;
+pos = (-2,0);
+ref = dotaccentcomb;
 }
 );
 width = 422;
@@ -70,8 +70,8 @@ pos = (2,0);
 ref = uni0249.ccmp;
 },
 {
-pos = (-29,0);
-ref = dotaccent;
+pos = (-30,0);
+ref = dotaccentcomb;
 }
 );
 width = 574;
@@ -85,8 +85,8 @@ pos = (-6,0);
 ref = uni0249.ccmp;
 },
 {
-pos = (38,0);
-ref = dotaccent;
+pos = (35,0);
+ref = dotaccentcomb;
 }
 );
 width = 327;

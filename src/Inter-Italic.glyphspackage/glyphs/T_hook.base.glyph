@@ -1,5 +1,4 @@
 {
-color = (219,235,247,1);
 glyphname = Thook.base;
 kernRight = T;
 layers = (
@@ -7,7 +6,7 @@ layers = (
 anchors = (
 {
 name = topl;
-pos = (611,1490);
+pos = (615,1490);
 }
 );
 background = {
@@ -20,8 +19,8 @@ ref = T;
 };
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (608,176);
 }
 );
@@ -31,18 +30,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(696,1330,l),
+(695,1323,l),
 (476,0,l),
-(656,0,l),
-(876,1330,l),
-(1344,1330,l),
-(1371,1490,l),
-(611,1490,l),
-(584,1330,l)
+(666,0,l),
+(885,1323,l),
+(1352,1323,l),
+(1380,1490,l),
+(615,1490,l),
+(586,1323,l)
 );
 }
 );
-width = 1315;
+width = 1324;
 },
 {
 anchors = (
@@ -60,8 +59,8 @@ ref = T;
 };
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (972,956);
 },
 {
@@ -139,8 +138,8 @@ ref = T;
 };
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (-5415,176);
 }
 );
@@ -161,7 +160,7 @@ nodes = (
 );
 }
 );
-width = 1251;
+width = 1235;
 },
 {
 anchors = (
@@ -229,10 +228,11 @@ nodes = (
 );
 }
 );
-width = 1127;
+width = 1122;
 }
 );
 metricRight = T;
+unicode = 60940;
 userData = {
 "interface.width-adjustments" = (
 -16

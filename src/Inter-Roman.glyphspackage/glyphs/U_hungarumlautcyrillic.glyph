@@ -5,79 +5,79 @@ layers = (
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (282,384);
+pos = (155,372);
 ref = hungarumlaut;
 }
 );
-width = 1276;
+width = 1287;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (328,384);
+pos = (211,372);
 ref = hungarumlaut;
 }
 );
-width = 1442;
+width = 1537;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (266,384);
+pos = (174,372);
 ref = hungarumlaut;
 }
 );
-width = 1174;
+width = 1167;
 },
 {
 layerId = m007;
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (282,384);
+pos = (240,434);
 ref = hungarumlaut;
 }
 );
-width = 1212;
+width = 1211;
 },
 {
 layerId = m009;
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (328,384);
+pos = (272,434);
 ref = hungarumlaut;
 }
 );
-width = 1410;
+width = 1445;
 },
 {
 layerId = m011;
 shapes = (
 {
-ref = afii10037;
+ref = "U-cy";
 },
 {
-pos = (266,384);
+pos = (259,434);
 ref = hungarumlaut;
 }
 );
-width = 1046;
+width = 1075;
 }
 );
 unicode = 1266;

@@ -9,7 +9,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (803,0);
+alignment = -1;
+pos = (801,0);
 ref = Z;
 }
 );
@@ -23,7 +24,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (867,0);
+alignment = -1;
+pos = (814,0);
 ref = Z;
 }
 );
@@ -37,7 +39,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (783,0);
+alignment = -1;
+pos = (779,0);
 ref = Z;
 }
 );
@@ -51,7 +54,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (815,0);
+alignment = -1;
+pos = (795,0);
 ref = Z;
 }
 );
@@ -65,7 +69,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (710,0);
+alignment = -1;
+pos = (712,0);
 ref = Z;
 }
 );
@@ -79,7 +84,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-pos = (728,0);
+alignment = -1;
+pos = (755,0);
 ref = Z;
 }
 );

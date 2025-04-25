@@ -6,16 +6,8 @@ layers = (
 {
 anchors = (
 {
-name = cross;
-pos = (270,768);
-},
-{
-name = cyrtic;
-pos = (360,0);
-},
-{
 name = top;
-pos = (632,1676);
+pos = (636,1490);
 }
 );
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -25,28 +17,20 @@ closed = 1;
 nodes = (
 (180,1490,l),
 (180,0,l),
-(360,0,l),
-(360,1330,l),
-(1080,1330,l),
-(1080,1490,l)
+(370,0,l),
+(370,1323,l),
+(1087,1323,l),
+(1087,1490,l)
 );
 }
 );
-width = 1178;
+width = 1185;
 },
 {
 anchors = (
 {
-name = cross;
-pos = (296,788);
-},
-{
-name = cyrtic;
-pos = (500,0);
-},
-{
 name = top;
-pos = (638,1676);
+pos = (638,1490);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -68,16 +52,8 @@ width = 1200;
 {
 anchors = (
 {
-name = cross;
-pos = (255,756);
-},
-{
-name = cyrtic;
-pos = (278,0);
-},
-{
 name = top;
-pos = (632,1676);
+pos = (632,1490);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -99,16 +75,8 @@ width = 1172;
 {
 anchors = (
 {
-name = cross;
-pos = (238,768);
-},
-{
-name = cyrtic;
-pos = (328,0);
-},
-{
 name = top;
-pos = (600,1676);
+pos = (600,1490);
 }
 );
 layerId = m007;
@@ -125,21 +93,13 @@ nodes = (
 );
 }
 );
-width = 1114;
+width = 1098;
 },
 {
 anchors = (
 {
-name = cross;
-pos = (280,780);
-},
-{
-name = cyrtic;
-pos = (496,0);
-},
-{
 name = top;
-pos = (622,1676);
+pos = (622,1490);
 }
 );
 layerId = m009;
@@ -161,16 +121,8 @@ width = 1168;
 {
 anchors = (
 {
-name = cross;
-pos = (191,756);
-},
-{
-name = cyrtic;
-pos = (214,0);
-},
-{
 name = top;
-pos = (568,1676);
+pos = (568,1490);
 }
 );
 layerId = m011;
@@ -192,10 +144,8 @@ width = 1040;
 );
 metricLeft = H;
 metricRight = T;
-note = "Like /T but with top bar all the way to the right";
-tags = (
-"TODO-opsz"
-);
+note = "Like /T but with top bar all the way to the right
+See also: /Ge-cy";
 unicode = 915;
 userData = {
 interface.gridadjust.original = "{'width': 1569, 'leftMargin': 242, 'rightMargin': 92}";

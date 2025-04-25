@@ -21,6 +21,7 @@ from fontTools.ttLib.tables._m_a_x_p import maxpFormat_0_5, maxpFormat_1_0_add
 from fontTools.ttLib.tables._p_o_s_t import postFormat
 from fontTools.ttLib.tables.O_S_2f_2 import OS2_format_1, OS2_format_2, OS2_format_5, panoseFormat
 from fontTools.ttLib.tables._m_e_t_a import table__m_e_t_a
+import fontTools.ttLib.tables._t_r_a_k as t_r_a_k
 # from robofab.world import world, RFont, RGlyph, OpenFont, NewFont
 # from robofab.objects.objectsRF import RFont, RGlyph, OpenFont, NewFont, RContour
 
@@ -274,11 +275,17 @@ def genFontInfo(fontpath, outputType, withGlyphs=True):
   #   print('table', tableName)
 
   nameDict = {}
+  version = None
   if 'name' in tt:
     nameDict = {}
     for rec in tt['name'].names:
-      k = _NAME_IDS[rec.nameID] if rec.nameID in _NAME_IDS else ('#%d' % rec.nameID)
-      nameDict[k] = rec.toUnicode()
+      k = '#%d' % rec.nameID
+      value = rec.toUnicode()
+      if rec.nameID in _NAME_IDS:
+        if _NAME_IDS[rec.nameID] == 'version':
+          version = value
+        k += ' ' + _NAME_IDS[rec.nameID]
+      nameDict[k] = value
     if 'fontId' in nameDict:
       info['id'] = nameDict['fontId']
 
@@ -289,14 +296,16 @@ def genFontInfo(fontpath, outputType, withGlyphs=True):
     if 'subfamilyName' in nameDict:
       info['name'] += '-' + nameDict['subfamilyName'].replace(' ', '')
 
-  if 'version' in nameDict:
-    version = nameDict['version']
+  if version:
     v = re.split(r'[\s;]+', version)
     if v and len(v) > 0:
       version = v[0]
       if version.lower() == 'version':
         version = v[1]
-      version = '.'.join([str(int(v)) for v in version.split('.')])
+      try:
+        version = '.'.join([str(int(v)) for v in version.split('.')])
+      except:
+        version = nameDict['version']
     info['version'] = version
 
   if outputType is not OUTPUT_TYPE_GLYPHLIST:
@@ -447,11 +456,11 @@ def genFontInfo(fontpath, outputType, withGlyphs=True):
         if fsSelection & 0b0000000000001000: s.append('3: OUTLINED')
         if fsSelection & 0b0000000000010000: s.append('4: STRIKEOUT')
         if fsSelection & 0b0000000000100000: s.append('5: BOLD')
-        if fsSelection & 0b0000000010000000: s.append('6: REGULAR')
-        if fsSelection & 0b0000000100000000: s.append('7: USE_TYPO_METRICS')
-        if fsSelection & 0b0000001000000000: s.append('8: WWS')
-        if fsSelection & 0b0000010000000000: s.append('9: OBLIQUE')
-        os2['fsSelection_raw'] = fsSelection
+        if fsSelection & 0b0000000001000000: s.append('6: REGULAR')
+        if fsSelection & 0b0000000010000000: s.append('7: USE_TYPO_METRICS')
+        if fsSelection & 0b0000000100000000: s.append('8: WWS')
+        if fsSelection & 0b0000001000000000: s.append('9: OBLIQUE')
+        os2['fsSelection_raw'] = bin(fsSelection)
         os2['fsSelection'] = s
 
 
@@ -464,8 +473,24 @@ def genFontInfo(fontpath, outputType, withGlyphs=True):
           v.decode('utf8')
           meta[k] = v
         except:
-          meta[k] = 'data:;base64,' + b64encode(v)
+          meta[k] = 'data:;base64,' + b64encode(v).decode('ascii')
       info['meta'] = meta
+
+    if 'trak' in tt:
+      # Apple-specific table, linking size to tracking values.
+      # https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6trak.html
+      trak = {}
+      table = tt['trak']
+      for direction in ("horiz", "vert"):
+        dataName = direction + "Data"
+        trackData = getattr(table, dataName, t_r_a_k.TrackData())
+        td = {}
+        for k, tableEntry in trackData.__dict__['_map'].items():
+          td[k] = { "nameIndex": tableEntry.nameIndex }
+          for k2 in tableEntry.keys():
+            td[k][str(k2)] = tableEntry[k2]
+        trak[dataName] = td
+      info['trak'] = trak
 
     # rest of tables
     for tname in tt.keys():

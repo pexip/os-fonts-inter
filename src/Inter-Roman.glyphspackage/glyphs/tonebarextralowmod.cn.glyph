@@ -1,5 +1,4 @@
 {
-color = (204,240,242,1);
 glyphname = tonebarextralowmod.cn;
 layers = (
 {
@@ -8,23 +7,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(396,1458,l),
-(396,0,l),
-(596,0,l),
-(596,1458,l)
+(398,1458,l),
+(398,0,l),
+(606,0,l),
+(606,1458,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(136,160,l),
+(136,166,l),
 (136,0,l),
-(546,0,l),
-(546,160,l)
+(557,0,l),
+(557,166,l)
 );
 }
 );
-width = 734;
+width = 744;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -146,9 +145,6 @@ nodes = (
 );
 width = 548;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 745;
 userData = {

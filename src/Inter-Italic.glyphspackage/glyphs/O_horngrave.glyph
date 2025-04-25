@@ -10,8 +10,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (289,372);
-ref = grave;
+pos = (432,372);
+ref = gravecomb;
 }
 );
 width = 1560;
@@ -23,8 +23,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (272,372);
-ref = grave;
+pos = (339,372);
+ref = gravecomb;
 }
 );
 width = 1628;
@@ -36,8 +36,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (338,372);
-ref = grave;
+pos = (463,372);
+ref = gravecomb;
 }
 );
 width = 1530;
@@ -49,8 +49,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (276,414);
-ref = grave;
+pos = (509,434);
+ref = gravecomb;
 }
 );
 width = 1534;
@@ -62,8 +62,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (161,414);
-ref = grave;
+pos = (356,434);
+ref = gravecomb;
 }
 );
 width = 1528;
@@ -75,11 +75,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (274,372);
-ref = grave;
+pos = (452,434);
+ref = gravecomb;
 }
 );
-width = 1402;
+width = 1401;
 }
 );
 unicode = 7900;

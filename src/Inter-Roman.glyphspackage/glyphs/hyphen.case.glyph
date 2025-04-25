@@ -14,7 +14,7 @@ pos = (0,107);
 ref = hyphen;
 }
 );
-width = 940;
+width = 942;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -74,6 +74,7 @@ width = 770;
 );
 metricLeft = hyphen;
 metricWidth = hyphen;
+unicode = 57480;
 userData = {
 "interface.width-adjustments" = (
 -16

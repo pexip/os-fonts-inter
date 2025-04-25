@@ -1,7 +1,7 @@
 {
 glyphname = ghestrokecyrillic;
 kernLeft = t;
-kernRight = T.sc;
+kernRight = r;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -10,11 +10,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-216,-163);
+pos = (-131,-187);
 ref = crossbar;
 }
 );
-width = 926;
+width = 893;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,11 +23,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-216,-99);
+pos = (-150,-186);
 ref = crossbar;
 }
 );
-width = 966;
+width = 956;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -36,11 +36,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-202,-164);
+pos = (-82,-187);
 ref = crossbar;
 }
 );
-width = 910;
+width = 852;
 },
 {
 layerId = m007;
@@ -49,11 +49,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-236,-162);
+pos = (-152,-187);
 ref = crossbar;
 }
 );
-width = 870;
+width = 864;
 },
 {
 layerId = m009;
@@ -62,11 +62,11 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-232,-155);
+pos = (-140,-217);
 ref = crossbar;
 }
 );
-width = 956;
+width = 948;
 },
 {
 layerId = m011;
@@ -75,15 +75,12 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-202,-164);
+pos = (-82,-187);
 ref = crossbar;
 }
 );
-width = 782;
+width = 778;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 1171;
 }

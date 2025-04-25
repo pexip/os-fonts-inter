@@ -10,15 +10,15 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (140,0);
-ref = breve;
+pos = (216,0);
+ref = brevecomb;
 },
 {
 pos = (762,0);
 ref = _part.cyrtail;
 }
 );
-width = 1200;
+width = 1211;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -27,8 +27,8 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (153,0);
-ref = breve;
+pos = (185,0);
+ref = brevecomb;
 },
 {
 pos = (796,0);
@@ -44,8 +44,8 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (166,0);
-ref = breve;
+pos = (230,0);
+ref = brevecomb;
 },
 {
 pos = (870,0);
@@ -61,8 +61,8 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (140,0);
-ref = breve;
+pos = (168,0);
+ref = brevecomb;
 },
 {
 pos = (730,0);
@@ -78,8 +78,8 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (153,0);
-ref = breve;
+pos = (169,0);
+ref = brevecomb;
 },
 {
 pos = (780,0);
@@ -95,8 +95,8 @@ shapes = (
 ref = iicyrillic;
 },
 {
-pos = (102,0);
-ref = breve;
+pos = (166,0);
+ref = brevecomb;
 },
 {
 pos = (806,0);
@@ -108,9 +108,6 @@ width = 1036;
 );
 metricLeft = m;
 metricRight = t;
-tags = (
-"TODO-opsz"
-);
 unicode = 1163;
 userData = {
 interface.gridadjust.original = "{'width': 1761, 'leftMargin': 164, 'rightMargin': -5}";

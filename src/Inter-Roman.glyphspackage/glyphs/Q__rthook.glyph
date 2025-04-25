@@ -10,11 +10,11 @@ shapes = (
 ref = _part.q_big;
 },
 {
-pos = (1080,0);
+pos = (1078,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1558;
+width = 1566;
 },
 {
 background = {
@@ -35,11 +35,11 @@ shapes = (
 ref = _part.q_big;
 },
 {
-pos = (994,0);
+pos = (974,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1620;
+width = 1600;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -108,9 +108,6 @@ width = 1396;
 );
 metricLeft = O;
 note = "Composed by O and a vertical stem with tail";
-tags = (
-"TODO-opsz"
-);
 unicode = 586;
 userData = {
 interface.gridadjust.original = "{'width': 1998, 'leftMargin': 161, 'rightMargin': 14}";

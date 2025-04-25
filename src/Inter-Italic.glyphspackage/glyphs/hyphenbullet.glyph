@@ -9,10 +9,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(328,674,l),
-(302,514,l),
-(836,514,l),
-(862,674,l)
+(329,677,l),
+(302,511,l),
+(839,511,l),
+(866,677,l)
 );
 }
 );
@@ -57,8 +57,8 @@ width = 1152;
 {
 guides = (
 {
-orientation = center;
 angle = -9.4;
+orientation = center;
 pos = (-4222,816);
 }
 );
@@ -80,8 +80,8 @@ width = 1024;
 {
 guides = (
 {
-orientation = center;
 angle = -9.4;
+orientation = center;
 pos = (-976,816);
 }
 );
@@ -101,13 +101,6 @@ nodes = (
 width = 752;
 },
 {
-guides = (
-{
-orientation = center;
-angle = -9.4;
-pos = (-112,816);
-}
-);
 layerId = m012;
 name = ital_gen;
 shapes = (

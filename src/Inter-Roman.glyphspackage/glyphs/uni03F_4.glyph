@@ -19,7 +19,7 @@ nodes = (
 ref = O;
 }
 );
-width = 1560;
+width = 1566;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -37,7 +37,7 @@ nodes = (
 ref = O;
 }
 );
-width = 1628;
+width = 1588;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -115,8 +115,5 @@ width = 1402;
 metricLeft = O;
 metricRight = O;
 note = "Note: Glyph reused for /obar";
-tags = (
-"TODO-opsz"
-);
 unicode = 1012;
 }
