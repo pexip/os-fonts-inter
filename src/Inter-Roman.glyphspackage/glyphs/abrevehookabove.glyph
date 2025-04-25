@@ -11,11 +11,11 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (124,22);
-ref = brevehookcomb.cn;
+pos = (174,0);
+ref = brevecomb_hookabovecomb;
 }
 );
-width = 1156;
+width = 1150;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -25,8 +25,8 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (96,-8);
-ref = brevehookcomb.cn;
+pos = (136,0);
+ref = brevecomb_hookabovecomb;
 }
 );
 width = 1222;
@@ -39,11 +39,11 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (176,38);
-ref = brevehookcomb.cn;
+pos = (174,0);
+ref = brevecomb_hookabovecomb;
 }
 );
-width = 1102;
+width = 1076;
 },
 {
 layerId = m007;
@@ -53,8 +53,8 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (112,-20);
-ref = brevehookcomb.cn;
+pos = (124,0);
+ref = brevecomb_hookabovecomb;
 }
 );
 width = 1060;
@@ -67,11 +67,11 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (72,-50);
-ref = brevehookcomb.cn;
+pos = (112,0);
+ref = brevecomb_hookabovecomb;
 }
 );
-width = 1178;
+width = 1194;
 },
 {
 layerId = m011;
@@ -81,11 +81,11 @@ ref = a;
 },
 {
 alignment = 1;
-pos = (176,38);
-ref = brevehookcomb.cn;
+pos = (134,0);
+ref = brevecomb_hookabovecomb;
 }
 );
-width = 974;
+width = 1004;
 }
 );
 unicode = 7859;

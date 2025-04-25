@@ -10,11 +10,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (300,0);
-ref = casetilde.cn;
+pos = (246,372);
+ref = tildecomb;
 }
 );
-width = 1518;
+width = 1524;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,8 +23,8 @@ shapes = (
 ref = U;
 },
 {
-pos = (222,0);
-ref = casetilde.cn;
+pos = (226,372);
+ref = tildecomb;
 }
 );
 width = 1478;
@@ -36,11 +36,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (344,0);
-ref = casetilde.cn;
+pos = (232,372);
+ref = tildecomb;
 }
 );
-width = 1536;
+width = 1472;
 },
 {
 layerId = m007;
@@ -49,11 +49,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (300,2);
-ref = casetilde.cn;
+pos = (240,434);
+ref = tildecomb;
 }
 );
-width = 1454;
+width = 1440;
 },
 {
 layerId = m009;
@@ -62,11 +62,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (222,0);
-ref = casetilde.cn;
+pos = (210,434);
+ref = tildecomb;
 }
 );
-width = 1446;
+width = 1444;
 },
 {
 layerId = m011;
@@ -75,11 +75,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (344,0);
-ref = casetilde.cn;
+pos = (228,434);
+ref = tildecomb;
 }
 );
-width = 1408;
+width = 1352;
 }
 );
 unicode = 360;

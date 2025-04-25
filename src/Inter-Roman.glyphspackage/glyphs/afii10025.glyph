@@ -1,22 +1,19 @@
 {
 glyphname = afii10025;
-kernRight = Vecyrillic;
+kernLeft = three;
+kernRight = eight;
 layers = (
 {
 anchors = (
 {
 name = cedilla;
 pos = (660,0);
-},
-{
-name = top;
-pos = (658,1676);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (916,1044);
 }
 );
@@ -27,30 +24,18 @@ alignment = 1;
 ref = three;
 }
 );
-width = 1304;
+width = 1265;
 },
 {
 anchors = (
 {
 name = cedilla;
 pos = (696,0);
-},
-{
-name = top;
-pos = (692,1676);
 }
 );
 guides = (
 {
 pos = (-36,2280);
-},
-{
-pos = (-36,764);
-},
-{
-orientation = center;
-angle = 90;
-pos = (896,1076);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -60,17 +45,13 @@ alignment = 1;
 ref = three;
 }
 );
-width = 1382;
+width = 1370;
 },
 {
 anchors = (
 {
 name = cedilla;
-pos = (640,0);
-},
-{
-name = top;
-pos = (634,1676);
+pos = (604,0);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -80,44 +61,28 @@ alignment = 1;
 ref = three;
 }
 );
-width = 1256;
+width = 1192;
 },
 {
 anchors = (
 {
 name = cedilla;
-pos = (660,0);
-},
-{
-name = top;
-pos = (658,1676);
-}
-);
-guides = (
-{
-orientation = center;
-angle = 90;
-pos = (916,1044);
+pos = (616,0);
 }
 );
 layerId = m007;
 shapes = (
 {
-alignment = 1;
 ref = three;
 }
 );
-width = 1232;
+width = 1226;
 },
 {
 anchors = (
 {
 name = cedilla;
 pos = (696,0);
-},
-{
-name = top;
-pos = (692,1676);
 }
 );
 guides = (
@@ -126,11 +91,6 @@ pos = (-36,2280);
 },
 {
 pos = (-36,764);
-},
-{
-orientation = center;
-angle = 90;
-pos = (896,1076);
 }
 );
 layerId = m009;
@@ -140,17 +100,13 @@ alignment = 1;
 ref = three;
 }
 );
-width = 1344;
+width = 1306;
 },
 {
 anchors = (
 {
 name = cedilla;
-pos = (640,0);
-},
-{
-name = top;
-pos = (634,1676);
+pos = (548,0);
 }
 );
 layerId = m011;
@@ -160,11 +116,8 @@ alignment = 1;
 ref = three;
 }
 );
-width = 1128;
+width = 1088;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 1047;
 userData = {

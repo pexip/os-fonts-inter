@@ -8,7 +8,7 @@ shapes = (
 ref = g;
 }
 );
-width = 1248;
+width = 1256;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -35,7 +35,7 @@ shapes = (
 ref = g;
 }
 );
-width = 1138;
+width = 1158;
 },
 {
 layerId = m009;
@@ -44,7 +44,7 @@ shapes = (
 ref = g;
 }
 );
-width = 1252;
+width = 1280;
 },
 {
 layerId = m011;
@@ -53,11 +53,8 @@ shapes = (
 ref = g;
 }
 );
-width = 1062;
+width = 1118;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 609;
 userData = {

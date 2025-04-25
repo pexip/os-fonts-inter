@@ -1,5 +1,4 @@
 {
-color = (204,240,242,1);
 glyphname = minusmod;
 layers = (
 {
@@ -8,14 +7,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(50,282,l),
-(498,282,l),
-(498,422,l),
-(50,422,l)
+(50,281,l),
+(504,281,l),
+(504,425,l),
+(50,425,l)
 );
 }
 );
-width = 546;
+width = 552;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -92,9 +91,6 @@ nodes = (
 );
 width = 204;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 727;
 userData = {

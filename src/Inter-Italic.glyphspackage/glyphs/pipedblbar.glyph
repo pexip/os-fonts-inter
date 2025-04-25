@@ -4,9 +4,9 @@ layers = (
 {
 guides = (
 {
-orientation = center;
 angle = 80.6;
-pos = (-341,2024);
+orientation = center;
+pos = (-1082,2024);
 }
 );
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -14,7 +14,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (-30,0);
+pos = (-29,0);
 ref = pipe;
 },
 {
@@ -28,7 +28,7 @@ pos = (-254,-218);
 ref = crossbar;
 }
 );
-width = 487;
+width = 496;
 },
 {
 guides = (
@@ -47,7 +47,7 @@ ref = pipe;
 },
 {
 alignment = -1;
-pos = (-190,167);
+pos = (-191,167);
 ref = crossbar;
 },
 {
@@ -74,18 +74,18 @@ ref = crossbar;
 },
 {
 alignment = -1;
-pos = (-239,-230);
+pos = (-240,-230);
 ref = crossbar;
 }
 );
-width = 443;
+width = 444;
 },
 {
 guides = (
 {
-orientation = center;
 angle = 80.6;
-pos = (-64,2024);
+orientation = center;
+pos = (-509,2024);
 }
 );
 layerId = m008;
@@ -93,27 +93,27 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (-28,0);
+pos = (-29,0);
 ref = pipe;
 },
 {
 alignment = -1;
-pos = (-279,-260);
+pos = (-192,276);
 ref = crossbar;
 },
 {
 alignment = -1;
-pos = (-361,-754);
+pos = (-274,-218);
 ref = crossbar;
 }
 );
-width = 427;
+width = 423;
 },
 {
 guides = (
 {
 angle = 80.6;
-pos = (150,0);
+pos = (175,0);
 }
 );
 layerId = m010;
@@ -121,21 +121,21 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (-45,0);
+pos = (-20,0);
 ref = pipe;
 },
 {
 alignment = -1;
-pos = (-160,446);
+pos = (-136,446);
 ref = crossbar;
 },
 {
 alignment = -1;
-pos = (-237,-16);
+pos = (-212,-16);
 ref = crossbar;
 }
 );
-width = 573;
+width = 574;
 },
 {
 layerId = m012;
@@ -143,21 +143,21 @@ name = ital_gen;
 shapes = (
 {
 alignment = -1;
-pos = (38,0);
+pos = (32,0);
 ref = pipe;
 },
 {
 alignment = -1;
-pos = (-146,296);
+pos = (-152,296);
 ref = crossbar;
 },
 {
 alignment = -1;
-pos = (-233,-230);
+pos = (-240,-230);
 ref = crossbar;
 }
 );
-width = 327;
+width = 316;
 }
 );
 metricLeft = lbar;

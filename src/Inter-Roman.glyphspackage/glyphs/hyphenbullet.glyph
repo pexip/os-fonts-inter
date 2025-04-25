@@ -15,10 +15,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(308,674,l),
-(308,514,l),
-(844,514,l),
-(844,674,l)
+(308,677,l),
+(308,511,l),
+(847,511,l),
+(847,677,l)
 );
 }
 );
@@ -109,12 +109,6 @@ nodes = (
 width = 752;
 },
 {
-guides = (
-{
-orientation = center;
-pos = (-112,816);
-}
-);
 layerId = m011;
 shapes = (
 {
@@ -131,9 +125,6 @@ width = 896;
 }
 );
 metricWidth = bullet;
-tags = (
-"TODO-opsz"
-);
 unicode = 8259;
 userData = {
 interface.gridadjust.original = "{'width': 1196, 'leftMargin': 110, 'rightMargin': 110}";

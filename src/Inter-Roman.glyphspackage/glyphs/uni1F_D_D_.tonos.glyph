@@ -1,110 +1,98 @@
 {
-color = (204,240,242,1);
 glyphname = uni1FDD.tonos;
 layers = (
 {
 anchors = (
 {
 name = _tonos;
-pos = (820,1490);
+pos = (856,1558);
 }
 );
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 920;
+width = 701;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (712,1490);
+pos = (1027,1595);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-alignment = -1;
-pos = (8,0);
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 774;
+width = 847;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (638,1490);
+pos = (674,1557);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-alignment = -1;
-pos = (-6,0);
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 1006;
+width = 553;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (820,1490);
+pos = (715,1495);
 }
 );
 layerId = m007;
 shapes = (
 {
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 856;
+width = 645;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (696,1490);
+pos = (911,1532);
 }
 );
 layerId = m009;
 shapes = (
 {
-alignment = -1;
-pos = (8,0);
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 742;
+width = 794;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (574,1490);
+pos = (669,1490);
 }
 );
 layerId = m011;
 shapes = (
 {
-alignment = -1;
-pos = (-6,0);
-ref = uni1FDD;
+ref = dasiavaria;
 }
 );
-width = 878;
+width = 515;
 }
 );
-tags = (
-"TODO-opsz"
-);
-unicode = 57596;
+unicode = 61076;
 userData = {
 interface.gridadjust.original = "{'width': 1064, 'leftMargin': 158, 'rightMargin': 121}";
 "interface.width-adjustments" = (

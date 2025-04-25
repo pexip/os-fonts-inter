@@ -10,11 +10,11 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (198,0);
-ref = acute;
+pos = (309,0);
+ref = acutecomb;
 }
 );
-width = 1098;
+width = 1110;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,8 +23,8 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (242,0);
-ref = acute;
+pos = (328,0);
+ref = acutecomb;
 }
 );
 width = 1266;
@@ -36,8 +36,8 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (206,0);
-ref = acute;
+pos = (274,0);
+ref = acutecomb;
 }
 );
 width = 972;
@@ -49,8 +49,8 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (167,0);
-ref = acute;
+pos = (354,0);
+ref = acutecomb;
 }
 );
 width = 1034;
@@ -62,8 +62,8 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (206,0);
-ref = acute;
+pos = (398,0);
+ref = acutecomb;
 }
 );
 width = 1238;
@@ -75,15 +75,12 @@ shapes = (
 ref = kacyrillic;
 },
 {
-pos = (142,0);
-ref = acute;
+pos = (292,0);
+ref = acutecomb;
 }
 );
-width = 844;
+width = 846;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 1116;
 }

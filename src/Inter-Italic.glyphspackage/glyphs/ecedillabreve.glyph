@@ -1,7 +1,7 @@
 {
 glyphname = ecedillabreve;
 kernLeft = o;
-kernRight = e;
+kernRight = o;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -10,15 +10,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (326,0);
-ref = cedilla;
+pos = (343,0);
+ref = cedillacomb;
 },
 {
-pos = (143,0);
-ref = breve;
+pos = (224,0);
+ref = brevecomb;
 }
 );
-width = 1173;
+width = 1179;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
@@ -27,15 +27,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (172,0);
-ref = cedilla;
+pos = (195,0);
+ref = cedillacomb;
 },
 {
-pos = (111,0);
-ref = breve;
+pos = (165,0);
+ref = brevecomb;
 }
 );
-width = 1239;
+width = 1232;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -44,12 +44,12 @@ shapes = (
 ref = e;
 },
 {
-pos = (382,0);
-ref = cedilla;
+pos = (379,0);
+ref = cedillacomb;
 },
 {
-pos = (177,0);
-ref = breve;
+pos = (254,0);
+ref = brevecomb;
 }
 );
 width = 1129;
@@ -61,15 +61,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (336,0);
-ref = cedilla;
+pos = (334,0);
+ref = cedillacomb;
 },
 {
-pos = (143,0);
-ref = breve;
+pos = (157,0);
+ref = brevecomb;
 }
 );
-width = 1082;
+width = 1080;
 },
 {
 layerId = m010;
@@ -78,15 +78,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (173,0);
-ref = cedilla;
+pos = (192,0);
+ref = cedillacomb;
 },
 {
-pos = (103,0);
-ref = breve;
+pos = (150,0);
+ref = brevecomb;
 }
 );
-width = 1202;
+width = 1200;
 },
 {
 layerId = m012;
@@ -95,15 +95,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (380,0);
-ref = cedilla;
+pos = (371,0);
+ref = cedillacomb;
 },
 {
-pos = (118,42);
-ref = breve;
+pos = (180,0);
+ref = brevecomb;
 }
 );
-width = 1005;
+width = 1003;
 }
 );
 unicode = 7709;

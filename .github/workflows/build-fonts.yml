@@ -14,7 +14,7 @@ on:
     paths:
       - "src/**"
       - Makefile
-      - requirements.txt
+      - Pipfile
       - version.txt
       - misc/makezip2.sh
       - "misc/tools/**"
@@ -25,7 +25,7 @@ on:
     paths:
       - "src/**"
       - Makefile
-      - requirements.txt
+      - Pipfile
       - version.txt
       - misc/makezip2.sh
       - "misc/tools/**"
@@ -37,7 +37,7 @@ defaults:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
@@ -70,24 +70,23 @@ jobs:
 
       - name: make zip
         run: |
-          ARCHIVE=Inter-${{ env.inter_version }}.zip
-          echo "rsm_archive=$ARCHIVE" >> $GITHUB_ENV
+          ZIP=Inter-${{ env.inter_version }}.zip
+          echo "inter_zip=$ZIP" >> $GITHUB_ENV
           make -j zip
-          mv build/release/*.zip "$ARCHIVE"
+          mv build/release/Inter*.zip "$ZIP"
 
       - name: Upload archive (unless tag)
         if: ${{ ! startsWith(github.ref, 'refs/tags/v') }}
         uses: actions/upload-artifact@v3
         with:
-          name: "${{ env.rsm_archive }}"
-          path: "${{ env.rsm_archive }}"
+          path: ${{ env.inter_zip }}
           retention-days: 1
 
-      - name: Publish release (if tag)
+      - name: Create release (if tag)
         if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v1
         with:
           prerelease: true
           name: "${{ env.inter_version }}"
-          body: "This release was automatically created"
-          files: "${{ env.rsm_archive }}"
+          body: "This release was created automatically"
+          files: ${{ env.inter_zip }}

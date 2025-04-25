@@ -1,8 +1,7 @@
 {
-color = (219,235,247,1);
 glyphname = i;
-kernLeft = idotless;
-kernRight = idotless;
+kernLeft = i;
+kernRight = i;
 layers = (
 {
 guides = (
@@ -17,10 +16,11 @@ shapes = (
 ref = idotless;
 },
 {
-ref = dotaccent;
+pos = (2,0);
+ref = dotaccentcomb;
 }
 );
-width = 486;
+width = 496;
 },
 {
 guides = (
@@ -38,7 +38,7 @@ ref = idotless;
 },
 {
 pos = (-32,0);
-ref = dotaccent;
+ref = dotaccentcomb;
 }
 );
 width = 606;
@@ -51,7 +51,7 @@ ref = idotless;
 },
 {
 pos = (34,0);
-ref = dotaccent;
+ref = dotaccentcomb;
 }
 );
 width = 442;
@@ -63,11 +63,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (1,0);
-ref = dotaccent;
+pos = (-1,0);
+ref = dotaccentcomb;
 }
 );
-width = 426;
+width = 422;
 },
 {
 guides = (
@@ -84,8 +84,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-32,0);
-ref = dotaccent;
+pos = (-34,0);
+ref = dotaccentcomb;
 }
 );
 width = 572;
@@ -97,8 +97,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (34,0);
-ref = dotaccent;
+pos = (35,0);
+ref = dotaccentcomb;
 }
 );
 width = 314;

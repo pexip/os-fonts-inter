@@ -1,7 +1,7 @@
 {
 glyphname = uni012F.ccmp;
-kernLeft = idotless;
-kernRight = idotless;
+kernLeft = i;
+kernRight = i;
 layers = (
 {
 anchors = (
@@ -22,11 +22,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-106,0);
-ref = ogonek;
+pos = (-103,0);
+ref = ogonekcomb;
 }
 );
-width = 488;
+width = 497;
 },
 {
 anchors = (
@@ -42,11 +42,11 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (-26,0);
-ref = ogonek;
+pos = (-25,0);
+ref = ogonekcomb;
 }
 );
-width = 606;
+width = 607;
 },
 {
 anchors = (
@@ -61,11 +61,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-27,0);
-ref = ogonek;
+pos = (-28,0);
+ref = ogonekcomb;
 }
 );
-width = 444;
+width = 443;
 },
 {
 anchors = (
@@ -86,11 +86,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-106,0);
-ref = ogonek;
+pos = (-108,0);
+ref = ogonekcomb;
 }
 );
-width = 426;
+width = 423;
 },
 {
 anchors = (
@@ -107,10 +107,10 @@ ref = idotless;
 {
 alignment = 1;
 pos = (-80,0);
-ref = ogonek;
+ref = ogonekcomb;
 }
 );
-width = 572;
+width = 573;
 },
 {
 anchors = (
@@ -125,11 +125,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-89,0);
-ref = ogonek;
+pos = (-95,0);
+ref = ogonekcomb;
 }
 );
-width = 327;
+width = 315;
 }
 );
 unicode = 57420;

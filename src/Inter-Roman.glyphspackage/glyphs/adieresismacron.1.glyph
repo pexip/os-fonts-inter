@@ -13,7 +13,6 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1236,-46);
 ref = dieresismacroncomb.lc;
 }
 );
@@ -28,11 +27,11 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1208,-18);
+pos = (15,0);
 ref = dieresismacroncomb.lc;
 }
 );
-width = 1246;
+width = 1254;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -43,7 +42,7 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1344,-32);
+pos = (5,0);
 ref = dieresismacroncomb.lc;
 }
 );
@@ -58,11 +57,11 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1182,-60);
+pos = (-10,0);
 ref = dieresismacroncomb.lc;
 }
 );
-width = 1162;
+width = 1160;
 },
 {
 layerId = m009;
@@ -73,7 +72,7 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1344,-74);
+pos = (-27,0);
 ref = dieresismacroncomb.lc;
 }
 );
@@ -88,11 +87,11 @@ ref = a.1;
 },
 {
 alignment = 1;
-pos = (1236,-46);
+pos = (-4,0);
 ref = dieresismacroncomb.lc;
 }
 );
-width = 1062;
+width = 1118;
 }
 );
 unicode = 57405;

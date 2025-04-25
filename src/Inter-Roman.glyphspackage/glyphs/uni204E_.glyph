@@ -11,7 +11,7 @@ pos = (0,-780);
 ref = asterisk;
 }
 );
-width = 1024;
+width = 1026;
 },
 {
 guides = (
@@ -89,9 +89,6 @@ width = 896;
 );
 metricLeft = asterisk;
 metricRight = asterisk;
-tags = (
-"TODO-opsz"
-);
 unicode = 8270;
 userData = {
 interface.gridadjust.original = "{'width': 1359, 'leftMargin': 111, 'rightMargin': 110}";

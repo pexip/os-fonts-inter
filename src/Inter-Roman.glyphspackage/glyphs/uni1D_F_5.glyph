@@ -1,5 +1,4 @@
 {
-color = (250,227,227,1);
 glyphname = uni1DF5;
 layers = (
 {
@@ -64,9 +63,6 @@ ref = uptackmod;
 );
 width = 0;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 7669;
 }

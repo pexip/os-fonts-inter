@@ -2,12 +2,6 @@
 glyphname = less;
 layers = (
 {
-anchors = (
-{
-name = _center;
-pos = (675,582);
-}
-);
 guides = (
 {
 pos = (1296,1616);
@@ -21,20 +15,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1112,46,l),
-(1112,232,l),
-(392,578,l),
-(398,568,l),
-(398,596,l),
-(392,584,l),
-(1112,930,l),
-(1112,1118,l),
-(174,640,l),
-(174,524,l)
+(1118,44,l),
+(1118,238,l),
+(400,579,l),
+(406,569,l),
+(406,597,l),
+(400,585,l),
+(1118,926,l),
+(1118,1122,l),
+(174,646,l),
+(174,520,l)
 );
 }
 );
-width = 1350;
+width = 1355;
 },
 {
 associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -144,12 +138,6 @@ nodes = (
 width = 942;
 },
 {
-anchors = (
-{
-name = _center;
-pos = (710,606);
-}
-);
 background = {
 guides = (
 {
@@ -297,12 +285,6 @@ nodes = (
 width = 1420;
 },
 {
-anchors = (
-{
-name = _center;
-pos = (652,581);
-}
-);
 guides = (
 {
 orientation = center;
@@ -352,12 +334,6 @@ nodes = (
 width = 1304;
 },
 {
-anchors = (
-{
-name = _center;
-pos = (643,582);
-}
-);
 guides = (
 {
 pos = (1004,1616);
@@ -494,12 +470,6 @@ nodes = (
 width = 942;
 },
 {
-anchors = (
-{
-name = _center;
-pos = (694,606);
-}
-);
 background = {
 guides = (
 {
@@ -647,12 +617,6 @@ nodes = (
 width = 1420;
 },
 {
-anchors = (
-{
-name = _center;
-pos = (588,581);
-}
-);
 guides = (
 {
 orientation = center;
@@ -704,9 +668,6 @@ width = 1304;
 );
 metricWidth = plus;
 note = "Recipe: Make rect and rotate 63deg (regular) or 69deg (black)";
-tags = (
-"TODO-opsz"
-);
 unicode = 60;
 userData = {
 com.typemytype.robofont.guideline.magnetic.UCqMAsbNEX = 5;

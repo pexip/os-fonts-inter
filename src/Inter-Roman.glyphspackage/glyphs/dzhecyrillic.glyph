@@ -14,7 +14,7 @@ pos = (384,0);
 ref = _part.cyrtic_center;
 }
 );
-width = 1194;
+width = 1204;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -84,9 +84,6 @@ width = 1048;
 );
 metricLeft = idotless;
 metricRight = idotless;
-tags = (
-"TODO-opsz"
-);
 unicode = 1119;
 userData = {
 interface.gridadjust.original = "{'width': 1635, 'leftMargin': 213, 'rightMargin': 213}";

@@ -3,31 +3,37 @@ glyphname = Istroke;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+metricLeft = "=+70";
+metricRight = "=+70";
 name = ital_gen;
 shapes = (
 {
+pos = (70,0);
 ref = I;
 },
 {
-pos = (-181,47);
-ref = crossbar;
+pos = (-15,24);
+ref = _part.crossbar_compact;
 }
 );
-width = 541;
+width = 690;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+metricLeft = "=+100";
+metricRight = "=+100";
 name = ital_gen;
 shapes = (
 {
+pos = (100,0);
 ref = I;
 },
 {
-pos = (-212,67);
-ref = crossbar;
+pos = (-29,43);
+ref = _part.crossbar_compact;
 }
 );
-width = 598;
+width = 796;
 },
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -37,53 +43,62 @@ shapes = (
 ref = I;
 },
 {
-pos = (-161,46);
-ref = crossbar;
+pos = (-10,23);
+ref = _part.crossbar_compact;
 }
 );
-width = 512;
+width = 510;
 },
 {
 layerId = m008;
+metricLeft = "=+80";
+metricRight = "=+80";
 name = ital_gen;
 shapes = (
 {
+pos = (80,0);
 ref = I;
 },
 {
-pos = (-202,48);
-ref = crossbar;
+pos = (-22,23);
+ref = _part.crossbar_compact;
 }
 );
-width = 476;
+width = 637;
 },
 {
 layerId = m010;
+metricLeft = "=+90";
+metricRight = "=+90";
 name = ital_gen;
 shapes = (
 {
+pos = (90,0);
 ref = I;
 },
 {
-pos = (-221,67);
-ref = crossbar;
+pos = (-13,43);
+ref = _part.crossbar_compact;
 }
 );
-width = 576;
+width = 757;
 },
 {
 layerId = m012;
+metricLeft = "=+13";
+metricRight = "=+13";
 name = ital_gen;
 shapes = (
 {
+pos = (13,0);
 ref = I;
 },
 {
-pos = (-160,46);
-ref = crossbar;
+pos = (-37,23);
+ref = _part.crossbar_compact;
 }
 );
-width = 385;
+width = 409;
 }
 );
 unicode = 407;

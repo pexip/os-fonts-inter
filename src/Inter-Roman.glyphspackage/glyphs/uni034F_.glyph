@@ -1,5 +1,4 @@
 {
-color = (250,227,227,1);
 glyphname = uni034F;
 layers = (
 {
@@ -26,9 +25,6 @@ width = 0;
 layerId = m011;
 width = 0;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 847;
 }

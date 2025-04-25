@@ -10,11 +10,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (1200,22);
+pos = (125,0);
 ref = macrongravecomb.lc;
 }
 );
-width = 1222;
+width = 1228;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (1344,4);
+pos = (224,0);
 ref = macrongravecomb.lc;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (1080,-22);
+pos = (194,0);
 ref = macrongravecomb.lc;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (1184,-20);
+pos = (146,0);
 ref = macrongravecomb.lc;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (1342,-38);
+pos = (238,0);
 ref = macrongravecomb.lc;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (1080,-22);
+pos = (146,0);
 ref = macrongravecomb.lc;
 }
 );

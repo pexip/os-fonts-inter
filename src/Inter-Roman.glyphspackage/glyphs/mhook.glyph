@@ -10,11 +10,11 @@ shapes = (
 ref = m;
 },
 {
-pos = (1110,0);
+pos = (1113,0);
 ref = _part.bottom_lfthook;
 }
 );
-width = 1782;
+width = 1794;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -36,11 +36,11 @@ shapes = (
 ref = m;
 },
 {
-pos = (1192,0);
+pos = (1256,0);
 ref = _part.bottom_lfthook;
 }
 );
-width = 1710;
+width = 1774;
 },
 {
 layerId = m007;
@@ -75,18 +75,15 @@ shapes = (
 ref = m;
 },
 {
-pos = (1128,0);
+pos = (1192,0);
 ref = _part.bottom_lfthook;
 }
 );
-width = 1582;
+width = 1646;
 }
 );
 metricLeft = m;
 metricRight = m;
-tags = (
-"TODO-opsz"
-);
 unicode = 625;
 userData = {
 interface.gridadjust.original = "{'width': 2463, 'leftMargin': 256, 'rightMargin': 159}";

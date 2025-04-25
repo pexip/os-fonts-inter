@@ -4,81 +4,93 @@ glyphname = Gmacron.1;
 layers = (
 {
 layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (517,372);
-ref = macron;
+pos = (426,372);
+ref = macroncomb;
 }
 );
 width = 1512;
 },
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (377,372);
-ref = macron;
+pos = (350,372);
+ref = macroncomb;
 }
 );
-width = 1536;
+width = 1527;
 },
 {
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (208,372);
-ref = macron;
+pos = (441,372);
+ref = macroncomb;
 }
 );
-width = 1594;
+width = 1545;
 },
 {
 layerId = m008;
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (383,372);
-ref = macron;
+pos = (426,434);
+ref = macroncomb;
 }
 );
-width = 1472;
+width = 1497;
 },
 {
 layerId = m010;
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (181,372);
-ref = macron;
+pos = (452,434);
+ref = macroncomb;
 }
 );
-width = 1562;
+width = 1517;
 },
 {
 layerId = m012;
+name = ital_gen;
 shapes = (
 {
+alignment = 1;
 ref = G.1;
 },
 {
-pos = (517,372);
-ref = macron;
+pos = (388,434);
+ref = macroncomb;
 }
 );
-width = 1384;
+width = 1383;
 }
 );
 unicode = 57355;

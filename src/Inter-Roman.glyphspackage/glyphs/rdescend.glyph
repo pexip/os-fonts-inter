@@ -19,7 +19,7 @@ nodes = (
 ref = r;
 }
 );
-width = 762;
+width = 771;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -116,8 +116,5 @@ width = 538;
 );
 metricLeft = n;
 metricRight = r;
-tags = (
-"TODO-opsz"
-);
 unicode = 57438;
 }

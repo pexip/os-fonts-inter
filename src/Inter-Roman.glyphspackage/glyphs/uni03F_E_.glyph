@@ -8,12 +8,12 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (487,626);
+alignment = -1;
+pos = (479,623);
 ref = period;
 }
 );
-width = 1490;
+width = 1496;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -22,12 +22,12 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (422,566);
+alignment = -1;
+pos = (415,566);
 ref = period;
 }
 );
-width = 1574;
+width = 1531;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -36,8 +36,8 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (483,701);
+alignment = -1;
+pos = (488,701);
 ref = period;
 }
 );
@@ -50,8 +50,8 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (549,641);
+alignment = -1;
+pos = (552,637);
 ref = period;
 }
 );
@@ -64,12 +64,12 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (485,556);
+alignment = -1;
+pos = (493,556);
 ref = period;
 }
 );
-width = 1508;
+width = 1494;
 },
 {
 layerId = m011;
@@ -78,8 +78,8 @@ shapes = (
 ref = C;
 },
 {
-alignment = 1;
-pos = (496,705);
+alignment = -1;
+pos = (499,703);
 ref = period;
 }
 );
@@ -88,9 +88,6 @@ width = 1352;
 );
 metricLeft = C;
 metricRight = C;
-tags = (
-"TODO-opsz"
-);
 unicode = 1022;
 userData = {
 interface.gridadjust.original = "{'width': 1834, 'leftMargin': 161, 'rightMargin': 121}";

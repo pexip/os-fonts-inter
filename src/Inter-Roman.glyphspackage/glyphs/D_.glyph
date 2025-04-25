@@ -1,5 +1,4 @@
 {
-color = (219,235,247,1);
 glyphname = D;
 kernLeft = B;
 kernRight = D;
@@ -7,20 +6,16 @@ layers = (
 {
 anchors = (
 {
-name = _center;
-pos = (736,745);
-},
-{
 name = bottom;
-pos = (622,0);
+pos = (628,0);
 },
 {
 name = cross;
-pos = (270,768);
+pos = (399,745);
 },
 {
 name = top;
-pos = (616,1676);
+pos = (619,1490);
 },
 {
 name = topl;
@@ -32,24 +27,24 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1094,0,o),
-(1350,282,o),
-(1350,748,cs),
-(1350,1210,o),
-(1094,1490,o),
-(660,1490,cs),
-(274,1490,l),
-(274,1330,l),
-(648,1330,ls),
-(998,1330,o),
-(1176,1108,o),
-(1176,748,cs),
-(1176,384,o),
-(998,160,o),
-(628,160,cs),
-(282,160,l),
-(282,0,l),
-(640,0,ls)
+(1099,0,o),
+(1356,282,o),
+(1356,748,cs),
+(1356,1210,o),
+(1099,1490,o),
+(664,1490,cs),
+(277,1490,l),
+(277,1322,l),
+(651,1322,ls),
+(996,1322,o),
+(1172,1106,o),
+(1172,748,cs),
+(1172,386,o),
+(996,168,o),
+(633,168,cs),
+(285,168,l),
+(285,0,l),
+(645,0,ls)
 );
 },
 {
@@ -57,30 +52,26 @@ closed = 1;
 nodes = (
 (180,1490,l),
 (180,0,l),
-(360,0,l),
-(360,1490,l)
+(370,0,l),
+(370,1490,l)
 );
 }
 );
-width = 1472;
+width = 1478;
 },
 {
 anchors = (
-{
-name = _center;
-pos = (750,745);
-},
 {
 name = bottom;
 pos = (674,0);
 },
 {
 name = cross;
-pos = (296,788);
+pos = (360,745);
 },
 {
 name = top;
-pos = (594,1676);
+pos = (594,1490);
 },
 {
 name = topl;
@@ -122,25 +113,21 @@ nodes = (
 );
 }
 );
-width = 1500;
+width = 1480;
 },
 {
 anchors = (
-{
-name = _center;
-pos = (731,745);
-},
 {
 name = bottom;
 pos = (590,0);
 },
 {
 name = cross;
-pos = (256,756);
+pos = (384,745);
 },
 {
 name = top;
-pos = (632,1676);
+pos = (632,1490);
 },
 {
 name = topl;
@@ -187,20 +174,16 @@ width = 1462;
 {
 anchors = (
 {
-name = _center;
-pos = (706,745);
-},
-{
 name = bottom;
 pos = (590,0);
 },
 {
 name = cross;
-pos = (238,768);
+pos = (350,745);
 },
 {
 name = top;
-pos = (584,1676);
+pos = (584,1490);
 },
 {
 name = topl;
@@ -247,34 +230,22 @@ width = 1412;
 {
 anchors = (
 {
-name = _center;
-pos = (728,745);
-},
-{
 name = bottom;
 pos = (666,0);
 },
 {
 name = cross;
-pos = (288,788);
+pos = (377,745);
 },
 {
 name = top;
-pos = (586,1676);
+pos = (586,1490);
 },
 {
 name = topl;
 pos = (80,1490);
 }
 );
-background = {
-shapes = (
-{
-pos = (-106,0);
-ref = O;
-}
-);
-};
 layerId = m009;
 shapes = (
 {
@@ -315,20 +286,16 @@ width = 1456;
 {
 anchors = (
 {
-name = _center;
-pos = (667,745);
-},
-{
 name = bottom;
 pos = (526,0);
 },
 {
 name = cross;
-pos = (192,756);
+pos = (338,745);
 },
 {
 name = top;
-pos = (568,1676);
+pos = (568,1490);
 },
 {
 name = topl;

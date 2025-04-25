@@ -10,17 +10,17 @@ shapes = (
 ref = z;
 },
 {
-pos = (702,0);
+pos = (697,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1108;
+width = 1131;
 },
 {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (748,656);
 }
 );
@@ -34,7 +34,7 @@ pos = (564,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1214;
+width = 1208;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -47,7 +47,7 @@ pos = (804,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1042;
+width = 1072;
 },
 {
 layerId = m007;
@@ -60,13 +60,13 @@ pos = (588,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 976;
+width = 980;
 },
 {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-2702,656);
 }
 );
@@ -76,11 +76,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (538,0);
+pos = (522,0);
 ref = _part.bottom_rthook;
 }
 );
-width = 1164;
+width = 1148;
 },
 {
 layerId = m011;
@@ -89,7 +89,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (740,0);
+pos = (725,0);
 ref = _part.bottom_rthook;
 }
 );
@@ -97,9 +97,6 @@ width = 914;
 }
 );
 metricLeft = z;
-tags = (
-"TODO-opsz"
-);
 unicode = 656;
 userData = {
 interface.gridadjust.original = "{'width': 1535, 'leftMargin': 122, 'rightMargin': -13}";

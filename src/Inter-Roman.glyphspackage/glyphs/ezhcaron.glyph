@@ -1,6 +1,6 @@
 {
 glyphname = ezhcaron;
-kernLeft = T.sc;
+kernLeft = t;
 layers = (
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
@@ -10,11 +10,11 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (175,0);
-ref = caron;
+pos = (210,0);
+ref = caroncomb;
 }
 );
-width = 1310;
+width = 1270;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -24,11 +24,11 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (44,0);
-ref = caron;
+pos = (179,0);
+ref = caroncomb;
 }
 );
-width = 1382;
+width = 1370;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -38,11 +38,11 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (184,16);
-ref = caron;
+pos = (165,0);
+ref = caroncomb;
 }
 );
-width = 1258;
+width = 1194;
 },
 {
 layerId = m007;
@@ -52,11 +52,11 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (176,-42);
-ref = caron;
+pos = (214,0);
+ref = caroncomb;
 }
 );
-width = 1232;
+width = 1212;
 },
 {
 layerId = m009;
@@ -66,11 +66,11 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (42,-42);
-ref = caron;
+pos = (226,0);
+ref = caroncomb;
 }
 );
-width = 1344;
+width = 1295;
 },
 {
 layerId = m011;
@@ -80,15 +80,12 @@ ref = dzeabkhasiancyrillic;
 },
 {
 alignment = 1;
-pos = (184,-26);
-ref = caron;
+pos = (184,62);
+ref = caroncomb;
 }
 );
-width = 1130;
+width = 1080;
 }
-);
-tags = (
-"TODO-opsz"
 );
 unicode = 495;
 userData = {

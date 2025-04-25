@@ -1,5 +1,4 @@
 {
-color = (227,245,235,1);
 glyphname = romaneleven;
 kernLeft = X;
 kernRight = H;
@@ -11,11 +10,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1316,0);
+pos = (1397,0);
 ref = I;
 }
 );
-width = 1856;
+width = 1947;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -24,11 +23,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1564,0);
+pos = (1610,0);
 ref = I;
 }
 );
-width = 2160;
+width = 2206;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -37,11 +36,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1198,0);
+pos = (1270,0);
 ref = I;
 }
 );
-width = 1710;
+width = 1780;
 },
 {
 layerId = m007;
@@ -50,11 +49,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1252,0);
+pos = (1322,0);
 ref = I;
 }
 );
-width = 1728;
+width = 1798;
 },
 {
 layerId = m009;
@@ -63,11 +62,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1524,0);
+pos = (1518,0);
 ref = I;
 }
 );
-width = 2100;
+width = 2094;
 },
 {
 layerId = m011;
@@ -76,11 +75,11 @@ shapes = (
 ref = X;
 },
 {
-pos = (1070,0);
+pos = (1188,0);
 ref = I;
 }
 );
-width = 1454;
+width = 1570;
 }
 );
 unicode = 8554;

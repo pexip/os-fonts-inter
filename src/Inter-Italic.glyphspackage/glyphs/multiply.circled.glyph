@@ -9,7 +9,7 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (798,163);
 ref = multiply;
 }
@@ -24,8 +24,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
-pos = (862,164);
+alignment = -1;
+pos = (867,163);
 ref = multiply;
 }
 );
@@ -39,7 +39,7 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (776,168);
 ref = multiply;
 }
@@ -54,8 +54,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
-pos = (808,163);
+alignment = -1;
+pos = (808,168);
 ref = multiply;
 }
 );
@@ -69,7 +69,7 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (736,140);
 ref = multiply;
 }
@@ -84,8 +84,8 @@ alignment = 1;
 ref = largeCircle;
 },
 {
-alignment = 1;
-pos = (752,140);
+alignment = -1;
+pos = (751,140);
 ref = multiply;
 }
 );

@@ -6,8 +6,8 @@ layers = (
 {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (360,1968);
 }
 );
@@ -17,11 +17,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (838,0);
+pos = (-351,0);
 ref = dieresisacutecomb.lc;
 }
 );
-width = 486;
+width = 496;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -30,7 +30,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (975,0);
+pos = (-363,0);
 ref = dieresisacutecomb.lc;
 }
 );
@@ -43,7 +43,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (803,0);
+pos = (-362,0);
 ref = dieresisacutecomb.lc;
 }
 );
@@ -52,8 +52,8 @@ width = 442;
 {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (360,1968);
 }
 );
@@ -63,11 +63,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (769,0);
+pos = (-357,0);
 ref = dieresisacutecomb.lc;
 }
 );
-width = 426;
+width = 422;
 },
 {
 layerId = m009;
@@ -76,7 +76,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (932,0);
+pos = (-363,0);
 ref = dieresisacutecomb.lc;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (663,42);
+pos = (-377,0);
 ref = dieresisacutecomb.lc;
 }
 );

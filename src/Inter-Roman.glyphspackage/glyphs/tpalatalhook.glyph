@@ -10,11 +10,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (152,0);
+pos = (106,-1);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 744;
+width = 670;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -23,11 +23,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (40,0);
+pos = (38,-3);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 830;
+width = 818;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -36,11 +36,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (294,0);
+pos = (132,6);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 712;
+width = 492;
 },
 {
 layerId = m007;
@@ -49,11 +49,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (58,0);
+pos = (75,0);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 626;
+width = 637;
 },
 {
 layerId = m009;
@@ -62,11 +62,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (56,0);
+pos = (68,0);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 852;
+width = 856;
 },
 {
 layerId = m011;
@@ -75,18 +75,15 @@ shapes = (
 ref = t;
 },
 {
-pos = (230,0);
+pos = (122,2);
 ref = _part.bottom_lfthook_t;
 }
 );
-width = 584;
+width = 472;
 }
 );
 metricLeft = t;
 metricRight = t;
-tags = (
-"TODO-opsz"
-);
 unicode = 427;
 userData = {
 interface.gridadjust.original = "{'width': 924.0, 'leftMargin': 0, 'rightMargin': 96.0}";

@@ -12,10 +12,11 @@ alignment = 1;
 ref = zero;
 },
 {
+pos = (5,0);
 ref = _part.zeroslash;
 }
 );
-width = 1280;
+width = 1292;
 },
 {
 guides = (
@@ -33,10 +34,11 @@ alignment = 1;
 ref = zero;
 },
 {
+pos = (-20,0);
 ref = _part.zeroslash;
 }
 );
-width = 1496;
+width = 1456;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -65,14 +67,6 @@ ref = _part.zeroslash;
 width = 1256;
 },
 {
-guides = (
-{
-pos = (-96,1240);
-},
-{
-pos = (-96,764);
-}
-);
 layerId = m009;
 shapes = (
 {
@@ -93,16 +87,14 @@ alignment = 1;
 ref = zero;
 },
 {
+pos = (28,0);
 ref = _part.zeroslash;
 }
 );
-width = 1082;
+width = 1138;
 }
 );
 metricLeft = zero;
 metricRight = zero;
-tags = (
-"TODO-opsz"
-);
 unicode = 57451;
 }

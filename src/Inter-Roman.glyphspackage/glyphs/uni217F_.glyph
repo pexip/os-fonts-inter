@@ -1,5 +1,4 @@
 {
-color = (227,245,235,1);
 glyphname = uni217F;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = m;
 }
 );
-width = 1782;
+width = 1794;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -27,7 +26,7 @@ shapes = (
 ref = m;
 }
 );
-width = 1710;
+width = 1774;
 },
 {
 layerId = m007;
@@ -54,7 +53,7 @@ shapes = (
 ref = m;
 }
 );
-width = 1582;
+width = 1646;
 }
 );
 unicode = 8575;

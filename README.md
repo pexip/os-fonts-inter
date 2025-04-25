@@ -9,7 +9,7 @@ several [OpenType features](https://rsms.me/inter/#features), like contextual al
 
 <br>
 
-[![Sample](misc/readme/intro.png)](https://rsms.me/inter/samples/)
+[![Sample](misc/readme/intro.png)](https://rsms.me/inter/)
 
 
 ### Quick questions
@@ -25,13 +25,13 @@ several [OpenType features](https://rsms.me/inter/#features), like contextual al
 
 ## Using & installing Inter
 
-- [**Download the latest font files…**](https://github.com/rsms/inter/releases/latest)
-- To use Inter on a web page, use the official
-  [CDN distribution](https://rsms.me/inter/inter.css) with the following HTML and CSS:
+[**Download the latest font files…**](https://github.com/rsms/inter/releases/latest)
+
+Using Inter on a web page:
 
 ```html
-<link rel="preconnect" href="https://rsms.me/">
-<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<link rel="preconnect" href="https://your-font-file-host/">
+<link rel="stylesheet" href="https://your-font-file-host/inter.css">
 ```
 
 ```css
@@ -40,6 +40,14 @@ several [OpenType features](https://rsms.me/inter/#features), like contextual al
   :root { font-family: 'Inter var', sans-serif; }
 }
 ```
+
+For web pages, there's an official [CDN distribution](https://rsms.me/inter/inter.css) that you can use directly without having to host the font files yourself:
+
+```html
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+```
+
 
 ### Alternate distributions
 
@@ -54,20 +62,23 @@ several [OpenType features](https://rsms.me/inter/#features), like contextual al
 
 ### Derivative versions
 
-- [Inter with Shavian character support](https://github.com/Shavian-info/interalia)
+- [Open Runde](https://github.com/lauridskern/open-runde) is a rounded variant of Inter
+- [Interalia](https://github.com/Shavian-info/interalia) extends Inter with Shavian characters
 
 
-## Notable projects using Inter
+## Notable uses of Inter
 
-- [Figma](https://figma.com/)
-- [Unity](https://unity.com/)
 - [ElementaryOS](https://elementary.io/)
-- [Zurich Airport](https://flughafen-zuerich.ch/)
-- [Element software suite](https://element.io/)
-- [Mozilla brand](https://mozilla.design/firefox/typography/)
-- [GitHub brand and documentation](https://github.com/about)
-- [Pixar Presto](https://en.wikipedia.org/wiki/Presto_(animation_software))
+- [Figma](https://figma.com/)
+- [GitLab](https://gitlab.com/)
+- [Guggenheim museums](https://www.pentagram.com/work/guggenheim-3)
 - [Minimalissimo magazine](https://minimalissimo.com/)
+- [Mozilla](https://mozilla.design/firefox/typography/)
+- [NASA](https://www.nasa.gov/specials/artemis-ii/)
+- [Pixar Presto](https://en.wikipedia.org/wiki/Presto_(animation_software))
+- [Switzerland, Canton of Zurich](https://www.zh.ch/)
+- [Unity](https://unity.com/)
+- [Zurich Airport](https://flughafen-zuerich.ch/)
 
 
 > **Have you made something nice with Inter?**<br>
@@ -95,6 +106,34 @@ For instructions on how to work with the source files and how to
 refer to [**CONTRIBUTING.md**](CONTRIBUTING.md).
 
 Inter is licensed under the [SIL Open Font License](LICENSE.txt)
+
+
+## Creating derivative fonts
+
+Inter is open source which means you can make your own versions with your own changes.
+However when doing so, please [**read LICENSE.txt carefully.**](LICENSE.txt) It is a standard **SIL Open Font License 1.1**:
+
+> The goals of the Open Font License (OFL) are to stimulate worldwide
+> development of collaborative font projects, to support the font creation
+> efforts of academic and linguistic communities, and to provide a free and
+> open framework in which fonts may be shared and improved in partnership
+> with others.
+>
+> The OFL allows the licensed fonts to be used, studied, modified and
+> redistributed freely as long as they are not sold by themselves. The
+> fonts, including any derivative works, can be bundled, embedded,
+> redistributed and/or sold with any software provided that any reserved
+> names are not used by derivative works. The fonts and derivatives,
+> however, cannot be released under any other type of license. The
+> requirement for fonts to remain under this license does not apply
+> to any document created using the fonts or their derivatives.
+
+While you are allowed to use Inter commercially, i.e. bundled with product or service which makes you money, you are NOT allowed to sell Inter itself or derivatives of Inter. If you would like to do so, please [reach out](https://github.com/rsms) and we can talk about it.
+
+Inter a trademark of Rasmus Andersson (DBA: RSMS)
+
+"Inter" is a Reserved Font Name by Rasmus Andersson
+([font vendor code RSMS.](https://learn.microsoft.com/en-us/typography/vendors/#r))
 
 
 ## Design
